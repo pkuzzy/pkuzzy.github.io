@@ -8,7 +8,7 @@ layout: default
 
 # Education
 
-- **Sept. 2017 - Now.**  
+- **Sept. 2019 - Now.**  
   PhD candidate, majoring in Computer Software and Theory, Peking University.  
   - Advisor: [孙栩/Xu Sun](https://xusun.org)
 - **Sept. 2015 - Jul. 2019**  

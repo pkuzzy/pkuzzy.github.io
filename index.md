@@ -18,14 +18,14 @@ layout: default
 
 (selected, \* means corresponding authors, full list as [[semantic_scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060))
 
-\item Jingjing Xu, Xu Sun\*, **Zhiyuan Zhang**, Guangxiang Zhao, Junyang Lin
+* Jingjing Xu, Xu Sun\*, **Zhiyuan Zhang**, Guangxiang Zhao, Junyang Lin
 Understanding and Improving Layer Normalization
   In NeurIPS 2019 (To appear)
 
-\item **Zhiyuan Zhang**, Wei Li, Qi Su\*
+* **Zhiyuan Zhang**, Wei Li, Qi Su\*
 Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora  
   In NLPCC 2019
 
-\item Xuancheng Ren, Xu Sun\*, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**  
+* Xuancheng Ren, Xu Sun\*, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**  
 Building an Ellipsis-aware Chinese Dependency Treebank for Web Text  
   In LREC 2018  [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)

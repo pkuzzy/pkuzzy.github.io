@@ -16,7 +16,7 @@ layout: default
 
 # Publication
 
-(selected, \* means first authors, full list as [[.bib]](https://dblp.org/pers/tb0/r/Ren:Xuancheng.bib) at dblp.org)
+(selected, \* means first authors, full list as [[semanticscholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060))
 
 * Building an Ellipsis-aware Chinese Dependency Treebank for Web Text  
   Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**  

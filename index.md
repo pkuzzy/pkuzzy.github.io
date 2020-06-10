@@ -13,7 +13,7 @@ Zhiyuan Zhang is a Ph.D. student, supervised by Prof. [Xu Sun](https://xusun.org
 # Education
 
 - **Sept. 2019 - Now.**  
-  PhD candidate, majoring in Computer Software and Theory, Peking University.  
+  PhD student, majoring in Computer Software and Theory, Peking University.  
   - Advisor: [孙栩/Xu Sun](https://xusun.org)
 - **Sept. 2015 - Jul. 2019**  
   Bachelor of Science in Computer Science, Peking University.
@@ -28,7 +28,7 @@ In NeurIPS 2019 [[pdf]](https://papers.nips.cc/paper/8689-understanding-and-impr
 
 * **Zhiyuan Zhang**, Wei Li, Qi Su\*:
 Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora,
-In NLPCC 2019 [[pdf]](https://arxiv.org/abs/1803.01557) [[doi]](https://link.springer.com/chapter/10.1007%2F978-3-030-32236-6_13) [[Cite]](https://citation-needed.springer.com/v2/references/10.1007/978-3-030-32236-6_13?format=bibtex)
+In NLPCC 2019 [[pdf]](https://arxiv.org/abs/1803.01557.pdf) [[doi]](https://link.springer.com/chapter/10.1007%2F978-3-030-32236-6_13) [[Cite]](https://citation-needed.springer.com/v2/references/10.1007/978-3-030-32236-6_13?format=bibtex)
 
 * Xuancheng Ren, Xu Sun\*, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**:
 Building an Ellipsis-aware Chinese Dependency Treebank for Web Text,

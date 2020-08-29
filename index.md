@@ -35,6 +35,6 @@ Building an Ellipsis-aware Chinese Dependency Treebank for Web Text,
 In LREC 2018  [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[Cite]](https://www.aclweb.org/anthology/L18-1276.bib)
 
 # Service
-As a reviewer at AAAI 2020, AAAI 2021
+- As a reviewer at AAAI 2020, AAAI 2021
 
-Teach assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"
+- Teach assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"

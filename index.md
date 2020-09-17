@@ -16,7 +16,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   Bachelor of Science in Computer Science, Peking University.
 
 # Publication
-(\* means corresponding authors, \# means equal contribution, paper list at [[semantic_scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060))
+(\* means corresponding authors, \# means equal contribution, [[semantic_scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060))
 
 - Memorized Sparse Backpropagation    
   **Zhiyuan Zhang**, Pengcheng Yanga, Xuancheng Ren, Qi Su\*, Xu Sun\*    

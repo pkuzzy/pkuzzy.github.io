@@ -24,7 +24,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun](https
 
 * **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun\*:
 Primal Meaning Recommendation via On-line Encyclopedia,
-In Nat Lang Eng (To be published) [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[Cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:VFeF7SsV0H0J:scholar.google.com/&output=citation&scisdr=CgUbr4kIEIfDg5j-daI:AAGBfm0AAAAAX2L7baKhHl7ez6S5iBB6BBAd08Rc-r0T&scisig=AAGBfm0AAAAAX2L7bcIgf75Uv0CP2oHsTZ-WrgSfIUrj&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+In J. Nat. Lang. Eng. (To be published) [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[Cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:VFeF7SsV0H0J:scholar.google.com/&output=citation&scisdr=CgUbr4kIEIfDg5j-daI:AAGBfm0AAAAAX2L7baKhHl7ez6S5iBB6BBAd08Rc-r0T&scisig=AAGBfm0AAAAAX2L7bcIgf75Uv0CP2oHsTZ-WrgSfIUrj&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 * **Zhiyuan Zhang**, Wei Li, Qi Su\*:
 Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora,

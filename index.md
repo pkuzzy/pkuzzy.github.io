@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Biography
-Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun](https://xusun.org), at School of Electronics Engineering and Computer Science, Peking University. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning applied to natural language processing.
+Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun](https://xusun.org), at MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning applied to natural language processing.
 
 # Research Interests
 

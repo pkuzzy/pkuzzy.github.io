@@ -5,11 +5,9 @@ name_chinese: 张之远
 theme: jekyll-theme-minimal
 email: zzy1210@pku.edu.cn
 email_full: mailto:zzy1210@pku.edu.cn
-aff1: Institute of Computational Linguistics,
-aff1url: http://icl.pku.edu.cn/
-aff2: School of Electronics Engineering and Computer Science,
+aff2: School of EECS,
 aff2url: http://eecs.pku.edu.cn/
 aff3: Peking University
 aff3url: http://www.pku.edu.cn/
-aff4: LANCO,
+aff4: LANCO, MOE Key Laboratory of Computational Linguistics, Institute of Computational Linguistics,
 aff4url: http://lanco.pku.edu.cn/

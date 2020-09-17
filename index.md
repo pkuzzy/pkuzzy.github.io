@@ -3,26 +3,20 @@ layout: default
 ---
 
 # Biography
-
 Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of EECS, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning applied to natural language processing.
 
 # Research Interests
-
 - **Natural Language Processing**
-
 - **Deep Learning**
 
 # Education
-
 - **Sept. 2019 - Now**  
   PhD student, majoring in Computer Software and Theory, Peking University. Advisor: Xu Sun.
-  
 - **Sept. 2015 - Jul. 2019**  
   Bachelor of Science in Computer Science, Peking University.
 
 # Publication
-
-(selected, \* means corresponding authors, full list as [[semantic_scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060))
+(\* means corresponding authors, \# means equal contribution, paper list at [[semantic_scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060))
 
 - Memorized Sparse Backpropagation    
   **Zhiyuan Zhang**, Pengcheng Yanga, Xuancheng Ren, Qi Su\*, Xu Sun\*    
@@ -52,8 +46,11 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   In LREC 2018    
   [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[Cite]](https://www.aclweb.org/anthology/L18-1276.bib)
 
+# Awards
+- Outstanding Graduates in Peking University, 2019
+- Merit Student in Peking University, 2016, 2017
+- National Scholarship, 2016
+
 # Service
-
 - As a reviewer at AAAI 2020, AAAI 2021
-
 - Teach assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"

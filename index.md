@@ -29,7 +29,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 - Primal Meaning Recommendation via On-line Encyclopedia   
   **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun   
   In J. Nat. Lang. Eng. (Accepted, to appear)    
-  [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[Cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:VFeF7SsV0H0J:scholar.google.com/&output=citation&scisdr=CgUbr4kkEMfg2n13sQM:AAGBfm0AAAAAX4FyqQP0xhVYFV03a8kHOYSgSKrJKMCa&scisig=AAGBfm0AAAAAX4FyqaF9KYxcZTDBBjJE3GDWrN2NTkv0&scisf=4&ct=citation&cd=-1&hl=zh-CN)   
+  [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[Cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
   
 - Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora    
   **Zhiyuan Zhang**, Wei Li, Qi Su   

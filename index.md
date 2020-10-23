@@ -20,21 +20,22 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 
 - Memorized Sparse Backpropagation    
   **Zhiyuan Zhang**, Pengcheng Yanga, Xuancheng Ren, Qi Su, Xu Sun    
-  In Neurocomputing (Accepted, to appear)    
+  In Neurocomputing (To appear)    
+  [[pdf]](https://arxiv.org/pdf/1905.10194.pdf) [[doi]](https://doi.org/10.1016/j.neucom.2020.08.055) [[Cite]](https://dblp.uni-trier.de/rec/journals/ijon/ZhangYRSS20.html?view=bibtex)
   
 - Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models    
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He    
-  In Findings of EMNLP 2020 (short paper) (Accepted, to appear)   
+  In Findings of ACL: EMNLP 2020 (To appear)   
   
 - Primal Meaning Recommendation via On-line Encyclopedia   
   **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun   
-  In J. Nat. Lang. Eng. (Accepted, to appear)    
+  In Journal of Natural Language Engineering (To appear)    
   [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[Cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
   
 - Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora    
   **Zhiyuan Zhang**, Wei Li, Qi Su   
-  In NLPCC 2019 (short paper)    
-  [[pdf]](https://arxiv.org/pdf/1803.01557.pdf) [[doi]](https://link.springer.com/chapter/10.1007%2F978-3-030-32236-6_13) [[Cite]](https://citation-needed.springer.com/v2/references/10.1007/978-3-030-32236-6_13?format=bibtex)  
+  In NLPCC 2019   
+  [[pdf]](https://arxiv.org/pdf/1803.01557.pdf) [[doi]](https://doi.org/10.1007/978-3-030-32236-6_13) [[Cite]](https://citation-needed.springer.com/v2/references/10.1007/978-3-030-32236-6_13?format=bibtex)  
   
 - Understanding and Improving Layer Normalization    
   Jingjing Xu, Xu Sun, **Zhiyuan Zhang**, Guangxiang Zhao, Junyang Lin    
@@ -44,7 +45,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 - Building an Ellipsis-aware Chinese Dependency Treebank for Web Text    
   Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**    
   In LREC 2018    
-  [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[Cite]](https://www.aclweb.org/anthology/L18-1276.bib)
+  [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[Cite]](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)
 
 # Awards
 - Outstanding Graduates in Peking University, 2019

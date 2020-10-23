@@ -19,7 +19,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 (\#: equal contribution, [[semantic_scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060))
 
 - Rethinking Residual Connection with Layer Normalization   
-  Fenglin Liu, Xuancheng Ren, **Zhiyuan Zhang**, Xu SUN
+  Fenglin Liu, Xuancheng Ren, **Zhiyuan Zhang**, Xu Sun
   In COLING 2020 (To appear)
   
 - Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models    

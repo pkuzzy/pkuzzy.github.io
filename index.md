@@ -21,7 +21,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 - Memorized Sparse Backpropagation    
   **Zhiyuan Zhang**, Pengcheng Yanga, Xuancheng Ren, Qi Su, Xu Sun    
   In Neurocomputing (To appear)    
-  [[pdf]](https://arxiv.org/pdf/1905.10194.pdf) [[doi]](https://doi.org/10.1016/j.neucom.2020.08.055) [[Cite]](https://dblp.uni-trier.de/rec/journals/ijon/ZhangYRSS20.html?view=bibtex)
+  [[pdf]](https://arxiv.org/pdf/1905.10194.pdf) [[doi]](https://doi.org/10.1016/j.neucom.2020.08.055) [[cite]](https://dblp.uni-trier.de/rec/journals/ijon/ZhangYRSS20.html?view=bibtex)
   
 - Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models    
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He    
@@ -40,7 +40,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 - Understanding and Improving Layer Normalization    
   Jingjing Xu, Xu Sun, **Zhiyuan Zhang**, Guangxiang Zhao, Junyang Lin    
   In NeurIPS 2019    
-  [[pdf]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf) [[code]](https://github.com/lancopku/AdaNorm) [[Supplemental]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization-supplemental.zip) [[cite]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization/bibtex)  
+  [[pdf]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf) [[code]](https://github.com/lancopku/AdaNorm) [[supplemental]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization-supplemental.zip) [[cite]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization/bibtex)  
   
 - Building an Ellipsis-aware Chinese Dependency Treebank for Web Text    
   Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**    

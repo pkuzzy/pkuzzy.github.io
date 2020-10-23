@@ -43,7 +43,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   
 - Primal Meaning Recommendation via On-line Encyclopedia   
   **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun   
-  In Journal of Natural Language Engineering (To appear)    
+  In Natural Language Engineering (To appear)    
   [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
   
 - Building an Ellipsis-aware Chinese Dependency Treebank for Web Text    

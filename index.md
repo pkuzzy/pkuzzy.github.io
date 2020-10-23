@@ -30,22 +30,22 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 - Primal Meaning Recommendation via On-line Encyclopedia   
   **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun   
   In Journal of Natural Language Engineering (To appear)    
-  [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[Cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
+  [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
   
 - Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora    
   **Zhiyuan Zhang**, Wei Li, Qi Su   
   In NLPCC 2019   
-  [[pdf]](https://arxiv.org/pdf/1803.01557.pdf) [[doi]](https://doi.org/10.1007/978-3-030-32236-6_13) [[Cite]](https://citation-needed.springer.com/v2/references/10.1007/978-3-030-32236-6_13?format=bibtex)  
+  [[pdf]](https://arxiv.org/pdf/1803.01557.pdf) [[doi]](https://doi.org/10.1007/978-3-030-32236-6_13) [[cite]](https://citation-needed.springer.com/v2/references/10.1007/978-3-030-32236-6_13?format=bibtex)  
   
 - Understanding and Improving Layer Normalization    
   Jingjing Xu, Xu Sun, **Zhiyuan Zhang**, Guangxiang Zhao, Junyang Lin    
   In NeurIPS 2019    
-  [[pdf]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf) [[code]](https://github.com/lancopku/AdaNorm) [[Supplemental]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization-supplemental.zip) [[Cite]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization/bibtex)  
+  [[pdf]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf) [[code]](https://github.com/lancopku/AdaNorm) [[Supplemental]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization-supplemental.zip) [[cite]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization/bibtex)  
   
 - Building an Ellipsis-aware Chinese Dependency Treebank for Web Text    
   Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**    
   In LREC 2018    
-  [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[Cite]](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)
+  [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[cite]](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)
 
 # Awards
 - Outstanding Graduates in Peking University, 2019

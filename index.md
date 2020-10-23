@@ -18,19 +18,18 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 # Publication
 (\#: equal contribution, [[semantic_scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060))
 
-- Memorized Sparse Backpropagation    
-  **Zhiyuan Zhang**, Pengcheng Yanga, Xuancheng Ren, Qi Su, Xu Sun    
-  In Neurocomputing (To appear)    
-  [[pdf]](https://arxiv.org/pdf/1905.10194.pdf) [[doi]](https://doi.org/10.1016/j.neucom.2020.08.055) [[cite]](https://dblp.uni-trier.de/rec/journals/ijon/ZhangYRSS20.html?view=bibtex)
+- Rethinking Residual Connection with Layer Normalization   
+  Fenglin Liu, Xuancheng Ren, **Zhiyuan Zhang**, Xu SUN
+  In COLING 2020 (To appear)
   
 - Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models    
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He    
   In Findings of ACL: EMNLP 2020 (To appear)   
   
-- Primal Meaning Recommendation via On-line Encyclopedia   
-  **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun   
-  In Journal of Natural Language Engineering (To appear)    
-  [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
+- Memorized Sparse Backpropagation    
+  **Zhiyuan Zhang**, Pengcheng Yanga, Xuancheng Ren, Qi Su, Xu Sun    
+  In Neurocomputing (To appear)    
+  [[pdf]](https://arxiv.org/pdf/1905.10194.pdf) [[doi]](https://doi.org/10.1016/j.neucom.2020.08.055) [[cite]](https://dblp.uni-trier.de/rec/journals/ijon/ZhangYRSS20.html?view=bibtex)
   
 - Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora    
   **Zhiyuan Zhang**, Wei Li, Qi Su   
@@ -41,6 +40,11 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   Jingjing Xu, Xu Sun, **Zhiyuan Zhang**, Guangxiang Zhao, Junyang Lin    
   In NeurIPS 2019    
   [[pdf]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf) [[code]](https://github.com/lancopku/AdaNorm) [[supplemental]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization-supplemental.zip) [[cite]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization/bibtex)  
+  
+- Primal Meaning Recommendation via On-line Encyclopedia   
+  **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun   
+  In Journal of Natural Language Engineering (To appear)    
+  [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
   
 - Building an Ellipsis-aware Chinese Dependency Treebank for Web Text    
   Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**    

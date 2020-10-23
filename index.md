@@ -25,6 +25,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 - Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models    
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He    
   In Findings of ACL: EMNLP 2020 (To appear)   
+  [[openreview]](https://openreview.net/forum?id=HJlv-Fz-pS)   
   
 - Memorized Sparse Backpropagation    
   **Zhiyuan Zhang**, Pengcheng Yanga, Xuancheng Ren, Qi Su, Xu Sun    

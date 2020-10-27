@@ -48,7 +48,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
   
 - **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**    
-  Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**    
+  X. Ren, X. Sun, J. Wen, B. Wei, W. Zhan, **Z. Zhang**    
   In **LREC** 2018    
   [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[cite]](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)
 

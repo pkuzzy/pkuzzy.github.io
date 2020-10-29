@@ -16,7 +16,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   Bachelor of Science in Computer Science, Peking University.
 
 # Publication
-[[Google_Scolar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060) (<sup>\#</sup>equal contribution)
+[[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060) (<sup>\#</sup>equal contribution)
 
 - **Rethinking Residual Connection with Layer Normalization**    
   Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun     

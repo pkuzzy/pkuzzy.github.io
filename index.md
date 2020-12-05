@@ -34,7 +34,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   
 - **Memorized Sparse Backpropagation**    
   **Zhiyuan Zhang**, Pengcheng Yang, Xuancheng Ren, Qi Su, Xu Sun    
-  In **Neurocomputing**       
+  In **Neurocomputing** 2020      
   [[pdf]](https://arxiv.org/pdf/1905.10194.pdf) [[doi]](https://doi.org/10.1016/j.neucom.2020.08.055) [[cite]](https://dblp.uni-trier.de/rec/journals/ijon/ZhangYRSS20.html?view=bibtex)
   
 - **Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora**    

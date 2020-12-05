@@ -58,10 +58,11 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[cite]](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)
 
 # Awards
+- Academic Excellence Award in Peking University, 2020
 - Outstanding Graduates in Peking University, 2019
 - Merit Student in Peking University, 2016, 2017
 - National Scholarship, 2016
 
-# Service
-- As a reviewer at AAAI 2020, AAAI 2021
+# Services
+- As a reviewer of AAAI，
 - Teach assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"

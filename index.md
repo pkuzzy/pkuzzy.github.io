@@ -64,5 +64,5 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 - National Scholarship, 2016
 
 # Services
-- As a reviewer of AAAI，
+- As a reviewer of AAAI
 - Teach assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"

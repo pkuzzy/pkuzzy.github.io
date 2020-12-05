@@ -18,9 +18,14 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 # Publication
 [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060) (<sup>\#</sup>equal contribution)
 
+- **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
+  Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li   
+  In **AAAI** 2021  (To appear)    
+
 - **Rethinking Residual Connection with Layer Normalization**    
   Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun     
-  In **COLING** 2020 (To appear)
+  In **COLING** 2020    
+  [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.320.pdf) [[cite]](https://dblp.uni-trier.de/rec/conf/coling/LiuRZSZ20.html?view=bibtex)     
   
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**    
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He    

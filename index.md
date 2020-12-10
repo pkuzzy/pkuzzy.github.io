@@ -21,6 +21,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li   
   In **AAAI** 2021  (To appear)    
+  [[pdf]](https://arxiv.org/pdf/2006.05620.pdf)    
 
 - **Rethinking Residual Connection with Layer Normalization**    
   Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun     

@@ -21,7 +21,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**    
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun   
   In **AAAI workshop** RSEML 2021  (To appear)   
-  [[pdf]](https://arxiv.org/pdf/2012.13489.pdf)
+  [[pdf]](https://arxiv.org/pdf/2012.13489.pdf) [[code]](https://github.com/lancopku/LPVDN)     
 
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li   
@@ -59,7 +59,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
   
 - **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**    
-  X. Ren, X. Sun, J. Wen, B. Wei, W. Zhan, **Z. Zhang**    
+  Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**    
   In **LREC** 2018    
   [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[cite]](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)
 

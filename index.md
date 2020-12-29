@@ -18,6 +18,11 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 # Publication
 [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060) (<sup>\#</sup>equal contribution)
 
+- **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**    
+  Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun   
+  In **AAAI workshop** RSEML 2021  (To appear)   
+  [[pdf]](https://arxiv.org/pdf/2012.13489.pdf)
+
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li   
   In **AAAI** 2021  (To appear)    

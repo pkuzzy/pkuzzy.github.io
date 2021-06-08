@@ -51,7 +51,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 - **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**    
   Wenkai Yang, Lei Li, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He  
   In **NAACL** 2021    
-  [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.165.pdf)  [[cite]](https://dblp.uni-trier.de/rec/conf/naacl/YangLZRSH21.html?view=bibtex)  
+  [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.165.pdf)  [[code]](https://github.com/lancopku/Embedding-Poisoning) [[cite]](https://dblp.uni-trier.de/rec/conf/naacl/YangLZRSH21.html?view=bibtex)  
      
 - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**    
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun   

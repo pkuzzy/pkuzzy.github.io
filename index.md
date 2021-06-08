@@ -11,15 +11,15 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 
 # Education
 - **Sept. 2019 - Now**  
-  PhD student, majoring in Computer Software and Theory, Peking University. Advisor: Xu Sun.
+  PhD student, majoring in Computer Software and Theory, Peking University. Advisor: Xu Sun. GPA: 3.85/4.00.
 - **Sept. 2015 - Jul. 2019**  
-  Bachelor of Science in Computer Science, Peking University.
+  Bachelor of Science in Computer Science, Peking University. GPA: 3.76/4.00, Rank 6/204.
  
 # Publication
 [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060) (<sup>\#</sup>equal contribution)
 
 - **Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects**    
-  Zhiyuan Zhang, Xuancheng Ren, Qi Su, Xu Sun, Bin He  
+  **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun, Bin He  
   In **NAACL** 2021    
   [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf)  [[cite]](https://dblp.uni-trier.de/rec/conf/naacl/ZhangRSSH21.html?view=bibtex)     
 
@@ -49,7 +49,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
 
 - **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**    
-  Wenkai Yang, Lei Li, Zhiyuan Zhang, Xuancheng Ren, Xu Sun, Bin He  
+  Wenkai Yang, Lei Li, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He  
   In **NAACL** 2021    
   [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.165.pdf)  [[cite]](https://dblp.uni-trier.de/rec/conf/naacl/YangLZRSH21.html?view=bibtex)  
      
@@ -73,8 +73,14 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   In **LREC** 2018    
   [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[cite]](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)
 
+# Internship
+- Research Intern at Alibaba, Summer, 2021
+- Research Intern at Mizuho, 2021
+- Research Intern at Huawei, 2020
+
 # Awards
 - Academic Excellence Award in Peking University, 2020
+- Peking University President Scholarship, 2019, 2020
 - Outstanding Graduates in Peking University, 2019
 - Merit Student in Peking University, 2016, 2017
 - National Scholarship, 2016

@@ -74,13 +74,13 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[cite]](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)
 
 # Internship
-- Research Intern at Alibaba, Summer, 2021
-- Research Intern at Mizuho, 2021
-- Research Intern at Huawei, 2020
+- Research Intern at Ant Group, 2021
+- Supported by a Research Grant from Mizuho Securities Co., Ltd, 2021
+- Supported by a Research Grant from Huawei Noah’s Ark Lab, 2020
 
 # Awards
 - Academic Excellence Award in Peking University, 2020
-- Peking University President Scholarship, 2019, 2020
+- Peking University President Scholarship, 2019, 2020, 2021
 - Outstanding Graduates in Peking University, 2019
 - Merit Student in Peking University, 2016, 2017
 - National Scholarship, 2016

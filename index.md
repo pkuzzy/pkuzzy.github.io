@@ -16,8 +16,12 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   Bachelor of Science in Computer Science, Peking University. GPA: 3.76/4.00, Rank 6/204.
  
 # Publication
-[[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060) (<sup>\#</sup>equal contribution)
+Selected (<sup>\#</sup>equal contribution). Please find the full list  on [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ) and [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)  
 
+- **Adversarial Parameter Defense by Multi-step Risk Minimization**
+  **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun
+  [[pdf]](https://arxiv.org/pdf/2109.02889.pdf) [[doi]](https://doi.org/10.1016/j.neunet.2021.08.022)  
+  
 - **Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects**    
   **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun, Bin He  
   In **NAACL** 2021    
@@ -41,28 +45,22 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
 - **Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora**    
   **Zhiyuan Zhang**, Wei Li, Qi Su   
   In **NLPCC** 2019   
-  [[pdf]](https://arxiv.org/pdf/1803.01557.pdf) [[doi]](https://doi.org/10.1007/978-3-030-32236-6_13) [[cite]](https://citation-needed.springer.com/v2/references/10.1007/978-3-030-32236-6_13?format=bibtex)  
+  [[pdf]](https://arxiv.org/pdf/1803.01557.pdf) [[doi]](https://doi.org/10.1007/978-3-030-32236-6_13) [[cite]](https://dblp.uni-trier.de/rec/conf/nlpcc/Zhang0S19.html?view=bibtex)  
   
 - **Primal Meaning Recommendation via On-line Encyclopedia**   
   **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun   
   In **Natural Language Engineering** (To appear)    
   [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
 
+- **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning**
+  Runxin Xu<sup>\#</sup>, Fuli Luo<sup>\#</sup>, **Zhiyuan Zhang**, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang
+  In **EMNLP** 2021 (To appear)    
+  
 - **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**    
   Wenkai Yang, Lei Li, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He  
   In **NAACL** 2021    
   [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.165.pdf)  [[code]](https://github.com/lancopku/Embedding-Poisoning) [[cite]](https://dblp.uni-trier.de/rec/conf/naacl/YangLZRSH21.html?view=bibtex)  
-     
-- **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**    
-  Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun   
-  In **AAAI workshop** RSEML 2021    
-  [[pdf]](https://arxiv.org/pdf/2012.13489.pdf) [[code]](https://github.com/lancopku/LPVDN) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-2012-13489.html?view=bibtex)     
 
-- **Rethinking Residual Connection with Layer Normalization**    
-  Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun     
-  In **COLING** 2020    
-  [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.320.pdf) [[cite]](https://dblp.uni-trier.de/rec/conf/coling/LiuRZSZ20.html?view=bibtex)     
-    
 - **Understanding and Improving Layer Normalization**    
   Jingjing Xu, Xu Sun, **Zhiyuan Zhang**, Guangxiang Zhao, Junyang Lin    
   In **NeurIPS** 2019    

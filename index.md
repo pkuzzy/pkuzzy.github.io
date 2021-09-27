@@ -28,7 +28,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf)  [[cite]](https://dblp.uni-trier.de/rec/conf/naacl/ZhangRSSH21.html?view=bibtex)     
 
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
-  Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li   
+  Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li    
   In **AAAI** 2021      
   [[pdf]](https://arxiv.org/pdf/2006.05620.pdf) [[cite]](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)     
 
@@ -53,7 +53,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
 
 - **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning**
-  Runxin Xu<sup>\#</sup>, Fuli Luo<sup>\#</sup>, **Zhiyuan Zhang**, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang
+  Runxin Xu<sup>\#</sup>, Fuli Luo<sup>\#</sup>, **Zhiyuan Zhang**, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang          
   In **EMNLP** 2021 (To appear)    
   
 - **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**    

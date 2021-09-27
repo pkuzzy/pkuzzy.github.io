@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Biography
-Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of EECS, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning applied to natural language processing.
+**Zhiyuan Zhang (张之远)** is a Ph.D. student, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of EECS, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning applied to natural language processing.
 
 # Research Interests
 - **Natural Language Processing**
@@ -16,7 +16,7 @@ Zhiyuan Zhang (张之远) is a Ph.D. student, supervised by Prof. [Xu Sun (孙�
   Bachelor of Science in Computer Science, Peking University. GPA: 3.76/4.00, Rank 6/204.
  
 # Publication
-**Selected** (<sup>\#</sup>equal contribution). **Full list on** [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060).          
+**Selected** (<sup>\#</sup>equal contribution). **Full:** [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060).          
 
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     
   **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   

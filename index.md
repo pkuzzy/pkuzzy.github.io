@@ -53,7 +53,7 @@ layout: default
   In **Natural Language Engineering** (To appear)    
   [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
 
-- **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning**
+- **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning**    
   Runxin Xu<sup>\#</sup>, Fuli Luo<sup>\#</sup>, **Zhiyuan Zhang**, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang          
   In **EMNLP** 2021 (To appear)    
   

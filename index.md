@@ -78,14 +78,14 @@ layout: default
 - Supported by a Research Grant from Huawei Noah’s Ark Lab, 2020
 
 # Awards
-## Phd student period
-- Merit Student in Peking University, 2021
-- Academic Excellence Award in Peking University, 2020
-- Peking University President Scholarship, 2019, 2020, 2021
-## Undergraduate period
-- Outstanding Graduates in Peking University, 2019
-- Merit Student in Peking University, 2016, 2017
-- National Scholarship, 2016
+- **Phd student period**
+  - Merit Student in Peking University, 2021
+  - Academic Excellence Award in Peking University, 2020
+  - Peking University President Scholarship, 2019, 2020, 2021
+- **Undergraduate period**
+  - Outstanding Graduates in Peking University, 2019
+  - Merit Student in Peking University, 2016, 2017
+  - National Scholarship, 2016
 
 # Services
 - As a reviewer of AAAI, ACL, TACL, NLPCC, etc.

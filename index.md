@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Biography
-**Zhiyuan Zhang (张之远)** is a Ph.D. student, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of EECS, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning applied to natural language processing.
+**Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of EECS, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning applied to natural language processing.
 
 # Research Interests
 - **Natural Language Processing**
@@ -78,8 +78,11 @@ layout: default
 - Supported by a Research Grant from Huawei Noah’s Ark Lab, 2020
 
 # Awards
+## Phd student period
+- Merit Student in Peking University, 2021
 - Academic Excellence Award in Peking University, 2020
 - Peking University President Scholarship, 2019, 2020, 2021
+## Undergraduate period
 - Outstanding Graduates in Peking University, 2019
 - Merit Student in Peking University, 2016, 2017
 - National Scholarship, 2016

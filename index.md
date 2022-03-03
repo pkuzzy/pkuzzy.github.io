@@ -55,7 +55,7 @@ layout: default
   
 - **Primal Meaning Recommendation via On-line Encyclopedia**   
   **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun   
-  In **Natural Language Engineering** (To appear)    
+  Accepted by **Natural Language Engineering** (To appear)    
   [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
 
 - **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning**    

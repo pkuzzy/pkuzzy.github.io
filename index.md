@@ -19,9 +19,9 @@ layout: default
 **Selected** (<sup>\#</sup>equal contribution). **Full:** [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060).          
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
-  **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun  
-  In **ICLR** 2022 
-  [[pdf]](https://openreview.net/pdf?id=Bn09TnDngN)  
+  **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
+  In **ICLR** 2022   
+  [[pdf]](https://openreview.net/pdf?id=Bn09TnDngN)    
 
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     
   **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   

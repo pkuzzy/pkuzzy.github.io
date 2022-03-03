@@ -60,7 +60,8 @@ layout: default
 
 - **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning**    
   Runxin Xu<sup>\#</sup>, Fuli Luo<sup>\#</sup>, **Zhiyuan Zhang**, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang          
-  In **EMNLP** 2021 (To appear)    
+  In **EMNLP** 2021   
+  [[pdf]](https://aclanthology.org/2021.emnlp-main.749.pdf) [[cite]](https://dblp.uni-trier.de/rec/conf/emnlp/XuLZTCHH21.html?view=bibtex)  
   
 - **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**    
   Wenkai Yang, Lei Li, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He  

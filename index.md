@@ -18,10 +18,15 @@ layout: default
 # Publication
 **Selected** (<sup>\#</sup>equal contribution). **Full:** [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060).          
 
+- **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
+  **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun  
+  In **ICLR** 2022 
+  [[pdf]](https://openreview.net/pdf?id=Bn09TnDngN)  
+
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     
   **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   
   In **Neural Networks** 2021    
-  [[pdf]](https://arxiv.org/pdf/2109.02889.pdf) [[doi]](https://doi.org/10.1016/j.neunet.2021.08.022)  
+  [[pdf]](https://arxiv.org/pdf/2109.02889.pdf) [[doi]](https://doi.org/10.1016/j.neunet.2021.08.022) [[cite]](https://dblp.uni-trier.de/rec/journals/nn/ZhangLRSLS21.html?view=bibtex)    
   
 - **Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects**    
   **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun, Bin He  

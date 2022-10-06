@@ -150,6 +150,19 @@ layout: default
   In AAAI 2021, RSEML workshop  
   [[pdf]](https://arxiv.org/pdf/2012.13489.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-2012-13489.html?view=bibtex)  
   
+# Patent
+- **一种模型训练方法及装置**     
+  China Patent, No.: 202110221446.7, 2022   
+  **Zhiyuan Zhang**, Xu Sun, Ruixuan Luo, Bin He (Huawei)    
+  
+- **一种模型的更新方法、装置及设备**   
+  China Patent, No.: 202111094859.X, 2021    
+  **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang (Ant Group)     
+  
+- **一种模型训练方法及装置**   
+  China Patent, No.: 202110475677.0, 2021        
+  **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He, Li Qian (Huawei)     
+
 # Internship
 - Research Intern at Tencent Technology Co., Ltd, 2022 - Now
 - Research Intern at Ant Group, 2021

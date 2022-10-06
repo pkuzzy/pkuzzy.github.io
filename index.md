@@ -22,12 +22,12 @@ layout: default
 
 ### Robustness and Security
 
-- **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**  
+- **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
   In **EMNLP** 2022   
   (To appear)    
 
-- **Backdoor-Resistant Federated Learning For Natural Language Processing**  
+- **Backdoor-Resistant Federated Learning For Natural Language Processing**    
   **Zhiyuan Zhang**, Qi Su and Xu Sun        
   In **EMNLP Findings** 2022   
   (To appear)    
@@ -84,9 +84,9 @@ layout: default
   In **NeurIPS** 2019    
   [[pdf]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf) [[code]](https://github.com/lancopku/AdaNorm) [[supplemental]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization-supplemental.zip) [[cite]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization/bibtex)  
   
-- **Rethinking Residual Connection with Layer Normalization**
-  Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun, Yuexian Zou
-  In **COLING** 2020  
+- **Rethinking Residual Connection with Layer Normalization**   
+  Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun, Yuexian Zou   
+  In **COLING** 2020   
   [[pdf]](https://aclanthology.org/2020.coling-main.320.pdf)  [[cite]](https://dblp.uni-trier.de/rec/conf/coling/LiuRZSZ20.html?view=bibtex)
   
 ### Natural Language Processing
@@ -94,26 +94,26 @@ layout: default
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
   In Arxiv. **A highly influential Chinese word segmentation open source toolkit.**   
-  [[pdf]](https://arxiv.org/pdf/1906.11455.pdf) [[github]](https://github.com/lancopku/pkuseg-python) [[cite]](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)       
+  [[pdf]](https://arxiv.org/pdf/1906.11455.pdf) [[github]](https://github.com/lancopku/pkuseg-python) [[cite]](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)        
   
-- **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**    
-  **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He     
+- **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     
+  **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He      
   In **EMNLP Findings** 2020      
   [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf) [[openreview]](https://openreview.net/forum?id=HJlv-Fz-pS) [[cite]](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)     
   
 - **Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora**    
-  **Zhiyuan Zhang**, Wei Li, Qi Su   
+  **Zhiyuan Zhang**, Wei Li, Qi Su    
   In **NLPCC** 2019   
   [[pdf]](https://arxiv.org/pdf/1803.01557.pdf) [[doi]](https://doi.org/10.1007/978-3-030-32236-6_13) [[cite]](https://dblp.uni-trier.de/rec/conf/nlpcc/Zhang0S19.html?view=bibtex)  
   
 - **Primal Meaning Recommendation via On-line Encyclopedia**   
-  **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun   
-  Accepted by a special issue of **Natural Language Engineering** 
+  **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun    
+  Accepted by a special issue of **Natural Language Engineering**     
   [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
 
-- **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**    
-  Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**    
-  In **LREC** 2018    
+- **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**     
+  Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**      
+  In **LREC** 2018      
   [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[cite]](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)
 
 ### Quantitative Finance

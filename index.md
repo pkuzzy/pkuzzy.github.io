@@ -127,7 +127,7 @@ layout: default
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun     
-  In KDD 2021, MLF workshop
+  In KDD 2021, MLF workshop    
   (To appear)    
   
 - **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**    

@@ -42,7 +42,7 @@ layout: default
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
   In **ICLR** 2022   
-  [[pdf]](https://openreview.net/pdf?id=Bn09TnDngN)    
+  [[pdf]](https://openreview.net/pdf?id=Bn09TnDngN) [[cite]](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)      
 
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     
   **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   

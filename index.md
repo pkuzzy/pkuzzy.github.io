@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Biography
-**Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. I'm also involved in deep learning applied to quantitative finance.
+**Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
 
 # Research Interests
 - **Deep Learning**

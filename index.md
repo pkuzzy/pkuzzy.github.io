@@ -13,9 +13,11 @@ layout: default
 
 # Education
 - **Sept. 2019 - Now**  
-  PhD student, majoring in Computer Software and Theory, Peking University. Advisor: Xu Sun. GPA: 3.85/4.00, Rank 1/23.
+  PhD student, majoring in Computer Software and Theory, at School of Computer Science, Peking University.
+  Advisor: Xu Sun. GPA: 3.85/4.00, Rank 1/23. 
 - **Sept. 2015 - Jul. 2019**  
-  Bachelor of Science in Computer Science, Peking University. GPA: 3.76/4.00, Rank 6/204.
+  Bachelor of Science in Computer Science, at School of EECS, Peking University.
+  GPA: 3.76/4.00, Rank 6/204. 
  
 # Publication
 **Selected** (<sup>\#</sup>equal contribution). [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060).          

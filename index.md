@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Biography
-**Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning, particularly robustness, security, and natural language processing, etc.
+**Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. I'm also involved in deep learning applied to quantitative finance.
 
 # Research Interests
 - **Deep Learning**
@@ -20,7 +20,7 @@ layout: default
 # Publication
 **Selected** (<sup>\#</sup>equal contribution). [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060).          
 
-## Robustness and Security of Deep Neural Networks
+### Robustness and Security
 
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**  
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
@@ -67,7 +67,7 @@ layout: default
   In **NAACL** 2021    
   [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.165.pdf)  [[code]](https://github.com/lancopku/Embedding-Poisoning) [[cite]](https://dblp.uni-trier.de/rec/conf/naacl/YangLZRSH21.html?view=bibtex)  
 
-## Deep Learning
+### Deep Learning
 
 - **Memorized Sparse Backpropagation**    
   **Zhiyuan Zhang**, Pengcheng Yang, Xuancheng Ren, Qi Su, Xu Sun    
@@ -84,18 +84,22 @@ layout: default
   In **NeurIPS** 2019    
   [[pdf]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf) [[code]](https://github.com/lancopku/AdaNorm) [[supplemental]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization-supplemental.zip) [[cite]](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization/bibtex)  
   
-## Natural Language Processing
+- **Rethinking Residual Connection with Layer Normalization**
+  Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun, Yuexian Zou
+  In **COLING** 2020  
+  [[pdf]](https://aclanthology.org/2020.coling-main.320.pdf)  [[cite]](https://dblp.uni-trier.de/rec/conf/coling/LiuRZSZ20.html?view=bibtex)
+  
+### Natural Language Processing
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
-  Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun   
-  In Arxiv
+  Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
+  In Arxiv. **A highly influential Chinese word segmentation open source toolkit.**   
   [[pdf]](https://arxiv.org/pdf/1906.11455.pdf) [[github]](https://github.com/lancopku/pkuseg-python) [[cite]](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)       
   
-  
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**    
-  **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He    
-  In **EMNLP Findings** 2020     
-  [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf) [[openreview]](https://openreview.net/forum?id=HJlv-Fz-pS) [[cite]](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)    
+  **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He     
+  In **EMNLP Findings** 2020      
+  [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf) [[openreview]](https://openreview.net/forum?id=HJlv-Fz-pS) [[cite]](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)     
   
 - **Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora**    
   **Zhiyuan Zhang**, Wei Li, Qi Su   
@@ -112,9 +116,38 @@ layout: default
   In **LREC** 2018    
   [[pdf]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf) [[data]](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) [[cite]](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)
 
-## Quantitative Finance
+### Quantitative Finance
+  
+- **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
+  Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
+  In IJCAI 2022, FinNLP workshop. **Selected as the best paper in FinNLP-2022!**      
+  (To appear)   
+  
+- **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
+  **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun     
+  In KDD 2021, MLF workshop
+  (To appear)    
+  
+- **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**    
+  Lei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
+  In ECML-PKDD 2022      
+  (To appear)
 
-
+- **Stock Trading Volume Prediction with Dual-Process Meta-Learning**   
+  Ruibo Chen, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun     
+  In ECML-PKDD 2022      
+  (To appear)
+  
+- **Incremental Stock Volume Prediction with Gradient Distillation and Diversified Memory Selection**   
+  Shicheng Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
+  In IJCAI 2022, AI4TS worksohp   
+  (To appear)    
+  
+ - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**   
+  Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
+  In AAAI 2021, RSEML workshop  
+  [[pdf]](https://arxiv.org/pdf/2012.13489.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-2012-13489.html?view=bibtex)  
+  
 # Internship
 - Research Intern at Tencent Technology Co., Ltd, 2022 - Now
 - Research Intern at Ant Group, 2021
@@ -135,5 +168,5 @@ layout: default
   - National Scholarship, 2016
 
 # Services
-- As a reviewer of AAAI, ACL, TACL, NLPCC, etc.
+- As a reviewer of AAAI, ACL, TACL, ECML, NLPCC, etc.
 - Teach assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"

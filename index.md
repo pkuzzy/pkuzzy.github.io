@@ -98,7 +98,7 @@ layout: default
   
 - **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**     
   Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**      
-  Comment: Releasing a Chinese dependency treebank of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
+  Comment: Releasing a Chinese dependency treebank [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
   In **LREC** 2018 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis), [cite](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)]  
   
 - **Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora**    

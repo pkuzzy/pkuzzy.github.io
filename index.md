@@ -113,11 +113,11 @@ layout: default
   
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  Comment: **Selected as the best paper in FinNLP-2022!**
+  Comment: **Selected as the best paper in FinNLP-2022!**        
   In IJCAI 2022, FinNLP workshop [To appear]     
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
-  **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun     
+  **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
   In KDD 2021, MLF workshop [To appear]    
   
 - **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**    

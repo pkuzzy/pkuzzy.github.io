@@ -153,7 +153,7 @@ layout: default
 - Research Intern at Tencent, WeChat AI (WXG-PRC), 2022 - Now
 - Supported by a Research Grant from Mizuho Securities, 2021 - Now
 - Research Intern at Ant Group, 2021
-- Supported by a Research Grant from Huawei Noah’s Ark Lab, 2020
+- Supported by a Research Grant from Huawei Noah’s Ark Lab, 2020 - 2021
 
 # Awards
 - **Phd student period**

@@ -26,7 +26,7 @@ layout: default
 
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
-  Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf]](https://arxiv.org/pdf/2006.05620.pdf) and Adversarial Parameter Defense [[pdf]](https://arxiv.org/pdf/2109.02889.pdf).           
+  Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf]](https://arxiv.org/pdf/2006.05620.pdf) and Adversarial Parameter Defense [[pdf](https://arxiv.org/pdf/2109.02889.pdf)].           
   In **EMNLP** 2022 [To appear]    
 
 - **Backdoor-Resistant Federated Learning For Natural Language Processing**    
@@ -39,12 +39,12 @@ layout: default
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
-  Comment: Also related to our previous paper: Neural Network Surgery [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf).      
+  Comment: Also related to our previous paper: Neural Network Surgery [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf)].      
   In **ICLR** 2022 [[pdf](https://openreview.net/pdf?id=Bn09TnDngN), [cite](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)]      
 
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     
   **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   
-  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[pdf]](https://arxiv.org/pdf/2006.05620.pdf).    
+  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)].    
   In **Neural Networks** 2021 [[pdf](https://arxiv.org/pdf/2109.02889.pdf), [doi](https://doi.org/10.1016/j.neunet.2021.08.022), [cite](https://dblp.uni-trier.de/rec/journals/nn/ZhangLRSLS21.html?view=bibtex)]    
   
 - **Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects**    
@@ -88,17 +88,17 @@ layout: default
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
-  Comment: **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[github]](https://github.com/lancopku/pkuseg-python).     
+  Comment: **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[github](https://github.com/lancopku/pkuseg-python)].     
   Preprint [[pdf](https://arxiv.org/pdf/1906.11455.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
   
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He      
-  Comment: The full version: preprint [[openreview]](https://openreview.net/forum?id=HJlv-Fz-pS).    
+  Comment: The full version: preprint [[openreview](https://openreview.net/forum?id=HJlv-Fz-pS)].    
   In **EMNLP Findings** 2020 (short) [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)]        
   
 - **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**     
   Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**      
-  Comment: Releasing a Chinese dependency treebank [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis) of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
+  Comment: Releasing a Chinese dependency treebank dataset [[github](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)] of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
   In **LREC** 2018 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis), [cite](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)]  
   
 - **Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora**    

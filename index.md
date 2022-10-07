@@ -20,7 +20,7 @@ layout: default
   GPA: 3.76/4.00, Rank 6/204. 
  
 # Publication
-**Selected** (<sup>\#</sup>equal contribution). [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060).          
+**Selected** (<sup>\#</sup>equal contribution). [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
 
 ### Robustness and Security
 

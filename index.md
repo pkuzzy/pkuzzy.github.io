@@ -95,7 +95,7 @@ layout: default
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
-  In Arxiv. **A highly influential Chinese word segmentation open source toolkit.**   
+  Preprint. **A highly influential Chinese word segmentation open source toolkit.**   
   [[pdf]](https://arxiv.org/pdf/1906.11455.pdf) [[github]](https://github.com/lancopku/pkuseg-python) [[cite]](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)        
   
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     
@@ -110,7 +110,7 @@ layout: default
   
 - **Primal Meaning Recommendation via On-line Encyclopedia**   
   **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun    
-  Accepted by a special issue of **Natural Language Engineering**     
+  Preprint, accepted by a special issue of **Natural Language Engineering**     
   [[pdf]](https://arxiv.org/pdf/1808.04660.pdf) [[cite]](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)   
 
 - **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**     
@@ -164,9 +164,9 @@ layout: default
   **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He, Li Qian (Huawei)     
 
 # Internship
-- Research Intern at Tencent Technology Co., Ltd, 2022 - Now
+- Research Intern at Tencent, WeChat AI (WXG-PRC), 2022 - Now
+- Supported by a Research Grant from Mizuho Securities, 2021 - Now
 - Research Intern at Ant Group, 2021
-- Supported by a Research Grant from Mizuho Securities Co., Ltd, 2021 - Now
 - Supported by a Research Grant from Huawei Noah’s Ark Lab, 2020
 
 # Awards

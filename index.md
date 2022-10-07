@@ -26,7 +26,7 @@ layout: default
 
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
-  Comment: Also related to the theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous conference [paper](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf) and journal [paper](https://arxiv.org/pdf/2109.02889.pdf).
+  Comment: Also related to the theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous conference [paper](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf) and journal [paper](https://arxiv.org/pdf/2109.02889.pdf).           
   In **EMNLP** 2022 [To appear]    
 
 - **Backdoor-Resistant Federated Learning For Natural Language Processing**    

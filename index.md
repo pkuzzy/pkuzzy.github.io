@@ -88,7 +88,7 @@ layout: default
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
-  Comment: **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[github]](https://github.com/lancopku/pkuseg-python).
+  Comment: **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[github]](https://github.com/lancopku/pkuseg-python).     
   Preprint [[pdf](https://arxiv.org/pdf/1906.11455.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
   
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     

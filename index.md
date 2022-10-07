@@ -39,7 +39,7 @@ layout: default
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
-  Comment: Also related to our previous paper: Neural Network Surgery [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf).
+  Comment: Also related to our previous paper: Neural Network Surgery [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf).      
   In **ICLR** 2022 [[pdf](https://openreview.net/pdf?id=Bn09TnDngN), [cite](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)]      
 
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     

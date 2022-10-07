@@ -26,7 +26,7 @@ layout: default
 
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
-  Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: [[pdf1](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf), [pdf2](https://arxiv.org/pdf/2109.02889.pdf)].           
+  Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[pdf]](https://arxiv.org/pdf/2109.02889.pdf).           
   In **EMNLP** 2022 [To appear]    
 
 - **Backdoor-Resistant Federated Learning For Natural Language Processing**    
@@ -39,12 +39,12 @@ layout: default
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
-  Comment: Also related to our previous paper: [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf).
+  Comment: Also related to our previous paper: Neural Network Surgery [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf).
   In **ICLR** 2022 [[pdf](https://openreview.net/pdf?id=Bn09TnDngN), [cite](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)]      
 
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     
   **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   
-  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: [[pdf]](https://arxiv.org/pdf/2006.05620.pdf).   
+  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[pdf]](https://arxiv.org/pdf/2006.05620.pdf).   
   In **Neural Networks** 2021 [[pdf](https://arxiv.org/pdf/2109.02889.pdf), [doi](https://doi.org/10.1016/j.neunet.2021.08.022), [cite](https://dblp.uni-trier.de/rec/journals/nn/ZhangLRSLS21.html?view=bibtex)]    
   
 - **Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects**    
@@ -88,7 +88,7 @@ layout: default
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
-  Comment: **A highly influential Chinese word segmentation open source toolkit**: [[github]](https://github.com/lancopku/pkuseg-python).
+  Comment: **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[github]](https://github.com/lancopku/pkuseg-python).
   Preprint [[pdf](https://arxiv.org/pdf/1906.11455.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
   
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     

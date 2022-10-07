@@ -92,8 +92,8 @@ layout: default
   Preprint [[pdf](https://arxiv.org/pdf/1906.11455.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
   
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     
-  **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He
-  Comment: The preprint of the full version: [[openreview]](https://openreview.net/forum?id=HJlv-Fz-pS).    
+  **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He      
+  Comment: The full version: preprint [[openreview]](https://openreview.net/forum?id=HJlv-Fz-pS).    
   In **EMNLP Findings** 2020 (short) [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)]        
   
 - **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**     

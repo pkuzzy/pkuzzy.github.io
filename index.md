@@ -20,7 +20,7 @@ layout: default
   GPA: 3.76/4.00, Rank 6/204. 
  
 # Publication
-**Selected** (<sup>\#</sup>equal contribution). [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [[Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060).          
+**Selected** (<sup>\#</sup>equal contribution). [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [Semantic Scholar]](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060).          
 
 ### Robustness and Security
 
@@ -38,7 +38,7 @@ layout: default
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
-  In **ICLR** 2022 [[pdf(https://openreview.net/pdf?id=Bn09TnDngN), cite]](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)      
+  In **ICLR** 2022 [[pdf(https://openreview.net/pdf?id=Bn09TnDngN)], [cite](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)]      
 
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     
   **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   
@@ -47,12 +47,12 @@ layout: default
   
 - **Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects**    
   **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun, Bin He  
-  In **NAACL** 2021  [[pdf(https://www.aclweb.org/anthology/2021.naacl-main.430.pdf), cite]](https://dblp.uni-trier.de/rec/conf/naacl/ZhangRSSH21.html?view=bibtex)     
+  In **NAACL** 2021  [[pdf(https://www.aclweb.org/anthology/2021.naacl-main.430.pdf)], [cite](https://dblp.uni-trier.de/rec/conf/naacl/ZhangRSSH21.html?view=bibtex)]     
 
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li    
   In **AAAI** 2021      
-  [[pdf(https://arxiv.org/pdf/2006.05620.pdf), cite]](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)     
+  [[pdf(https://arxiv.org/pdf/2006.05620.pdf)], [cite](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)]     
 
 - **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**       
   Sishuo Chen, Wenkai Yang, **Zhiyuan Zhang**, Xiaohan Bi and Xu Sun  
@@ -62,7 +62,7 @@ layout: default
 - **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**    
   Wenkai Yang, Lei Li, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He  
   In **NAACL** 2021    
-  [[pdf(https://www.aclweb.org/anthology/2021.naacl-main.165.pdf), code(https://github.com/lancopku/Embedding-Poisoning), cite]](https://dblp.uni-trier.de/rec/conf/naacl/YangLZRSH21.html?view=bibtex)  
+  [[pdf(https://www.aclweb.org/anthology/2021.naacl-main.165.pdf)], [code(https://github.com/lancopku/Embedding-Poisoning)], [cite](https://dblp.uni-trier.de/rec/conf/naacl/YangLZRSH21.html?view=bibtex)]  
 
 ### Deep Learning
 

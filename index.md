@@ -44,17 +44,17 @@ layout: default
 
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     
   **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   
-  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[pdf]](https://arxiv.org/pdf/2006.05620.pdf).   
+  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[pdf]](https://arxiv.org/pdf/2006.05620.pdf).    
   In **Neural Networks** 2021 [[pdf](https://arxiv.org/pdf/2109.02889.pdf), [doi](https://doi.org/10.1016/j.neunet.2021.08.022), [cite](https://dblp.uni-trier.de/rec/journals/nn/ZhangLRSLS21.html?view=bibtex)]    
   
 - **Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects**    
   **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun, Bin He  
-  Comment: Also about NLP backdoors for both benign and malicious purposes.
+  Comment: Besides injecting data patterns with minimal instance-wise side effects, also about NLP backdoors for both benign and malicious purposes.     
   In **NAACL** 2021 [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf), [cite](https://dblp.uni-trier.de/rec/conf/naacl/ZhangRSSH21.html?view=bibtex)]     
 
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li    
-  Comment: The analysis of the robustness against parameter corruption or perturbation.
+  Comment: The analysis of the robustness against parameter corruption or perturbation.       
   In **AAAI** 2021 [[pdf](https://arxiv.org/pdf/2006.05620.pdf), [cite](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)]     
 
 - **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**       
@@ -73,7 +73,7 @@ layout: default
 
 - **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning**    
   Runxin Xu<sup>\#</sup>, Fuli Luo<sup>\#</sup>, **Zhiyuan Zhang**, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang          
-  Comment: Also related to the theoretical analysis of the generalization ability and the parameter robustness.      
+  Comment: Besides the effective and generalizable fine-tuning approach, also related to the theoretical analysis of the generalization ability and the parameter robustness.      
   In **EMNLP** 2021 [[pdf](https://aclanthology.org/2021.emnlp-main.749.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/XuLZTCHH21.html?view=bibtex)]   
   
 - **Understanding and Improving Layer Normalization**    

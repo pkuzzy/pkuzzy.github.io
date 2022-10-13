@@ -31,11 +31,11 @@ layout: default
 
 - **Backdoor-Resistant Federated Learning For Natural Language Processing**    
   **Zhiyuan Zhang**, Qi Su and Xu Sun        
-  In **EMNLP Findings** 2022 [To appear]    
+  In **Findings of EMNLP** 2022 [To appear]    
 
 - **Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Xingjun Ma, Chenguang Wang and Xu Sun       
-  In **EMNLP Findings** 2022 [To appear]    
+  In **Findings of EMNLP** 2022 [To appear]    
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
@@ -59,7 +59,7 @@ layout: default
 
 - **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**       
   Sishuo Chen, Wenkai Yang, **Zhiyuan Zhang**, Xiaohan Bi and Xu Sun  
-  In **EMNLP Findings** 2022 [To appear]     
+  In **Findings of EMNLP** 2022 [To appear]     
 
 - **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**    
   Wenkai Yang, Lei Li, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He  
@@ -94,7 +94,7 @@ layout: default
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He      
   Comment: The full version: preprint [[openreview](https://openreview.net/forum?id=HJlv-Fz-pS)].    
-  In **EMNLP Findings** 2020 (short) [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)]        
+  In **Findings of EMNLP** 2020 (short) [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)]        
   
 - **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**     
   Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**      

@@ -29,7 +29,7 @@ layout: default
   Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[pdf](https://arxiv.org/pdf/2109.02889.pdf)].           
   In **EMNLP** 2022 [To appear]    
 
-- **Backdoor-Resistant Federated Learning For Natural Language Processing**    
+- **Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation**    
   **Zhiyuan Zhang**, Qi Su and Xu Sun        
   In **Findings of EMNLP** 2022 [To appear]    
 
@@ -101,7 +101,7 @@ layout: default
   Comment: Releasing a Chinese dependency treebank dataset [[github](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)] of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
   In **LREC** 2018 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis), [cite](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)]  
   
-- **Automatic Translating Between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora**    
+- **Automatic Translating between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora**    
   **Zhiyuan Zhang**, Wei Li, Qi Su    
   In **NLPCC** 2019 (short) [[pdf](https://arxiv.org/pdf/1803.01557.pdf), [doi](https://doi.org/10.1007/978-3-030-32236-6_13), [cite](https://dblp.uni-trier.de/rec/conf/nlpcc/Zhang0S19.html?view=bibtex)]     
   

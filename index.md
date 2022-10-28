@@ -105,7 +105,7 @@ layout: default
   **Zhiyuan Zhang**, Wei Li, Qi Su    
   In **NLPCC** 2019 (short) [[pdf](https://arxiv.org/pdf/1803.01557.pdf), [doi](https://doi.org/10.1007/978-3-030-32236-6_13), [cite](https://dblp.uni-trier.de/rec/conf/nlpcc/Zhang0S19.html?view=bibtex)]     
   
-- **Primal Meaning Recommendation via On-line Encyclopedia**   
+- **Primal Meaning Recommendation for Chinese Expressions via Descriptions in On-line Encyclopedia**   
   **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun    
   Preprint, accepted by a special issue of **Natural Language Engineering** [[pdf](https://arxiv.org/pdf/1808.04660.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)]      
 

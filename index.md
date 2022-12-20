@@ -78,7 +78,7 @@ layout: default
   
 - **Understanding and Improving Layer Normalization**    
   Jingjing Xu, Xu Sun, **Zhiyuan Zhang**, Guangxiang Zhao, Junyang Lin    
-  In **NeurIPS** 2019 [[pdf](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf), [code](https://github.com/lancopku/AdaNorm), [supplemental](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization-supplemental.zip), [cite](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization/bibtex)]  
+  In **NeurIPS** 2019 [[pdf](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf), [code](https://github.com/lancopku/AdaNorm), [supplemental](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization-supplemental.zip), [cite](https://dblp.uni-trier.de/rec/conf/nips/Xu0ZZL19.html?view=bibtex)]  
   
 - **Rethinking Skip Connection with Layer Normalization**   
   Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun, Yuexian Zou   

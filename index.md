@@ -107,12 +107,12 @@ layout: default
   Comment: Releasing a Chinese dependency treebank dataset [[github](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)] of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
   In **LREC** 2018 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis), [cite](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)]      
 
-### Quantitative Finance
+### Quantitative Finance and Time Series Analysis
   
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In IJCAI 2022, FinNLP workshop [To appear]     
+  In FinNLP 2022 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:n4Uu3AG1ZHIJ:scholar.google.com/&output=citation&scisdr=CgUTbamNEM7uiW_-Yb8:AAGBfm0AAAAAY-n4eb-i3MGPNWQEvKo41T0BhnOybprt&scisig=AAGBfm0AAAAAY-n4efnFIUfVt39cnoEKlLxzQT3Z2dGs&scisf=4&ct=citation&cd=-1&hl=zh-CN)]      
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
@@ -128,11 +128,11 @@ layout: default
   
 - **Incremental Stock Volume Prediction with Gradient Distillation and Diversified Memory Selection**   
   Shicheng Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In IJCAI 2022, AI4TS worksohp [To appear]     
+  In AI4TS 2022 (AI for Time Series Analysis) [To appear]     
   
  - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**   
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In AAAI 2021, RSEML workshop [[pdf](https://arxiv.org/pdf/2012.13489.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2012-13489.html?view=bibtex)]     
+  In RSEML 2021 (Robust, Secure, and Efficient ML) [[pdf](https://arxiv.org/pdf/2012.13489.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2012-13489.html?view=bibtex)]     
   
 # Patent
 - **一种模型训练方法及装置**     

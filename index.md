@@ -59,7 +59,7 @@ layout: default
 
 - **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**       
   Sishuo Chen, Wenkai Yang, **Zhiyuan Zhang**, Xiaohan Bi and Xu Sun  
-  In **Findings of EMNLP** 2022 [To appear]     
+  In **Findings of EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.47.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ChenYZBS22.html?view=bibtex)]     
 
 - **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**    
   Wenkai Yang, Lei Li, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He  

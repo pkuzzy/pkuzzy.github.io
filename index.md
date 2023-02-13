@@ -112,7 +112,7 @@ layout: default
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In FinNLP 2022 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:n4Uu3AG1ZHIJ:scholar.google.com/&output=citation&scisdr=CgUTbamNEM7uiW_-Yb8:AAGBfm0AAAAAY-n4eb-i3MGPNWQEvKo41T0BhnOybprt&scisig=AAGBfm0AAAAAY-n4efnFIUfVt39cnoEKlLxzQT3Z2dGs&scisf=4&ct=citation&cd=-1&hl=zh-CN)]      
+  In FinNLP 2022  [To appear]           
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           

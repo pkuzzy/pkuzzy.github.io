@@ -112,7 +112,7 @@ layout: default
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In FinNLP 2022  [To appear]           
+  In FinNLP 2022 (Financial Technology and NLP) [To appear]           
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
@@ -132,7 +132,7 @@ layout: default
   
  - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**   
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In RSEML 2021 (Robust, Secure, and Efficient ML) [[pdf](https://arxiv.org/pdf/2012.13489.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2012-13489.html?view=bibtex)]     
+  In RSEML 2021 (Robust, Secure, and Efficient ML) [[pdf](https://arxiv.org/pdf/2012.13489.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2012-13489.html?view=bibtex)]      
   
 # Patent
 - **一种模型训练方法及装置**     

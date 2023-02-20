@@ -24,12 +24,12 @@ layout: default
 
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
-  In **Neurocomputing** 2022  [[pdf](https://arxiv.org/pdf/2108.08976.pdf), [doi](https://doi.org/10.1016/j.neucom.2022.12.013), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]
+  In **Neurocomputing** 2022  [[pdf](https://arxiv.org/pdf/2108.08976.pdf), [doi](https://doi.org/10.1016/j.neucom.2022.12.013), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]          
 
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
   Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[pdf](https://arxiv.org/pdf/2109.02889.pdf)].           
-  In **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.emnlp-main.257.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangL0022.html?view=bibtex)]         
+  In **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.emnlp-main.257.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangL0022.html?view=bibtex)]                    
 - **Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation**    
   **Zhiyuan Zhang**, Qi Su and Xu Sun        
   In **Findings of EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]           

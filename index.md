@@ -6,13 +6,9 @@ layout: default
 **Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
 
 # Research Interests
-
 - **Deep Learning**
-
 - **Robustness and Security of Deep Neural Networks**
-
 - **Natural Language Processing**
-
 - **Quantitative Finance**
 
 
@@ -101,43 +97,30 @@ layout: default
 # Awards
 - **Phd student period**
   - Yang Fuqing & Wang Yangyuan Academician Scholarship, 2022
-  
   - Outstanding Research Award in Peking University, 2022
-  
   - Huatai Securities Technology Scholarship, 2021
-  
   - Merit Student in Peking University, 2021
-  
-  - Academic Excellence Award in Peking University, 2020
-  
+  - Academic Excellence Award in Peking University, 2020 
   - Peking University President Scholarship, 2019, 2020, 2021
   
 - **Undergraduate period**
-  - Outstanding Graduates in Peking University, 2019
-  
-  - Merit Student in Peking University, 2016, 2017
-  
+  - Outstanding Graduates in Peking University, 2019 
+  - Merit Student in Peking University, 2016, 2017 
   - National Scholarship, 2016
 
 # Internships
 - Research Intern at Tencent, WeChat AI, 2022 - Now
-
 - Research grant support from Mizuho Securities, 2021 - Now
-
 - Research Intern at Ant Group, 2021
-
 - Research grant support from Huawei Noah’s Ark Lab, 2020 - 2021
 
 # Invited Talks
 - Shanghai AI Lab: **A Study of Parameter Corruption of Neural Networks** (神经网络参数扰动的研究), Aug. 2022
-
 - Huawei - Peking Univ. Academic Forum: **Limitation and Improvement of Federated Aggregation Algorithm on Natural Language Processing Tasks** (联邦聚合算法在自然语言处理任务上的局限性及改进), July 2022
-
 - Beijing Language & Culture University: **A Overview of Adversarial Attacks** (对抗攻击综述报告), Dec. 2021
 
 # Services
 - As reviewers of AAAI, ACL, TACL, ECML, NLPCC, etc.
-
 - Teach assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"
 
 # Paper List      

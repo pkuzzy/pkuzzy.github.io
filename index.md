@@ -56,7 +56,7 @@ layout: default
 
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li    
-  Comment: The analysis of the robustness against parameter corruption or perturbation.       
+  Comment: The analysis of the robustness against parameter corruptions or perturbations.       
   In **AAAI** 2021 [[pdf](https://arxiv.org/pdf/2006.05620.pdf), [cite](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)]     
 
 - **Memorized Sparse Backpropagation**    
@@ -76,7 +76,7 @@ layout: default
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In FinNLP 2022 (Financial Technology and NLP) [To appear]                    
+  In **FinNLP** 2022 (Financial Technology and NLP) [To appear]                    
   
 # Patents
 - **一种模型训练方法及装置**     
@@ -111,17 +111,17 @@ layout: default
 - Research grant support from Huawei Noah’s Ark Lab, 2020 - 2021
 
 # Invited Talks
-- Shanghai AI Lab: A Study of Parameter Corruption of Neural Networks (神经网络参数扰动的研究), Aug. 2022
-- Huawei - Peking Univ. Academic Forum: Limitation and Improvement of Federated Aggregation Algorithm on Natural Language Processing Tasks (联邦聚合算法在自然语言处理任务上的局限性及改进), July 2022
-- Beijing Language & Culture University: A Overview of Adversarial Attacks (对抗攻击综述报告), Dec. 2021
+- Shanghai AI Lab: **A Study of Parameter Corruption of Neural Networks** (神经网络参数扰动的研究), Aug. 2022
+- Huawei - Peking Univ. Academic Forum: **Limitation and Improvement of Federated Aggregation Algorithm on Natural Language Processing Tasks** (联邦聚合算法在自然语言处理任务上的局限性及改进), July 2022
+- Beijing Language & Culture University: **A Overview of Adversarial Attacks** (对抗攻击综述报告), Dec. 2021
 
 # Services
-- As a reviewer of AAAI, ACL, TACL, ECML, NLPCC, etc.
+- As reviewers of AAAI, ACL, TACL, ECML, NLPCC, etc.
 - Teach assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"
 
 # Paper List      
 
-### Deep Learning: Optimization, Robustness and Security
+## Deep Learning: Optimization, Robustness and Security
 
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
@@ -181,7 +181,7 @@ layout: default
   Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun, Yuexian Zou   
   In **COLING** 2020 [[pdf](https://aclanthology.org/2020.coling-main.320.pdf),  [cite](https://dblp.uni-trier.de/rec/conf/coling/LiuRZSZ20.html?view=bibtex)]
   
-### Natural Language Processing Applications
+## Natural Language Processing Applications
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
@@ -206,12 +206,12 @@ layout: default
   Comment: Releasing a Chinese dependency treebank dataset [[github](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)] of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
   In **LREC** 2018 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis), [cite](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)]      
 
-### Quantitative Finance and Time Series Analysis
+## Quantitative Finance and Time Series Analysis
   
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In FinNLP 2022 (Financial Technology and NLP) [To appear]           
+  In **FinNLP** 2022 (Financial Technology and NLP) [To appear]           
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
@@ -219,16 +219,16 @@ layout: default
   
 - **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**    
   Lei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In ECML-PKDD 2022 [To appear]     
+  In **ECML-PKDD** 2022 [To appear]     
 
 - **Stock Trading Volume Prediction with Dual-Process Meta-Learning**   
   Ruibo Chen, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun     
-  In ECML-PKDD 2022 [To appear]    
+  In **ECML-PKDD** 2022 [To appear]    
   
 - **Incremental Stock Volume Prediction with Gradient Distillation and Diversified Memory Selection**   
   Shicheng Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In AI4TS 2022 (AI for Time Series Analysis) [To appear]     
+  In **AI4TS** 2022 (AI for Time Series Analysis) [To appear]     
   
  - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**   
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In RSEML 2021 (Robust, Secure, and Efficient ML) [[pdf](https://arxiv.org/pdf/2012.13489.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2012-13489.html?view=bibtex)]      
+  In **RSEML** 2021 (Robust, Secure, and Efficient ML) [[pdf](https://arxiv.org/pdf/2012.13489.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2012-13489.html?view=bibtex)]      

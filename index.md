@@ -2,16 +2,16 @@
 layout: default
 ---
 
-# Biography
+## Biography
 **Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
 
-# Research Interests
+## Research Interests
 - **Deep Learning**
 - **Robustness and Security of Deep Neural Networks**
 - **Natural Language Processing**
 - **Quantitative Finance**
 
-# Education
+## Education
 - **Sept. 2019 - Now**  
   PhD student, majoring in Computer Software and Theory, at School of Computer Science, Peking University.   
   Advisor: Xu Sun. GPA: 3.85/4.00, Rank 1/23. 
@@ -19,7 +19,7 @@ layout: default
   Bachelor of Science in Computer Science, at School of EECS, Peking University.   
   GPA: 3.76/4.00, Rank 6/204. 
  
-# Publications
+## Selected Publications
 **Selected** (<sup>\#</sup>equal contribution). [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
 
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
@@ -78,7 +78,7 @@ layout: default
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
   In **FinNLP** 2022 (Financial Technology and NLP) [To appear]                    
   
-# Patents
+## Patents
 - **一种模型训练方法及装置**     
   China Patent, No.: 202110221446.7, 2022   
   **Zhiyuan Zhang**, Xu Sun, Ruixuan Luo, Bin He (Huawei)    
@@ -91,7 +91,7 @@ layout: default
   China Patent, No.: 202110475677.0, 2021        
   **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He, Li Qian (Huawei)     
 
-# Awards
+## Awards
 - **Phd student period**
   - Yang Fuqing & Wang Yangyuan Academician Scholarship, 2022
   - Outstanding Research Award in Peking University, 2022
@@ -104,24 +104,24 @@ layout: default
   - Merit Student in Peking University, 2016, 2017
   - National Scholarship, 2016
 
-# Internships
+## Internships
 - Research Intern at Tencent, WeChat AI, 2022 - Now
 - Research grant support from Mizuho Securities, 2021 - Now
 - Research Intern at Ant Group, 2021
 - Research grant support from Huawei Noah’s Ark Lab, 2020 - 2021
 
-# Invited Talks
+## Invited Talks
 - Shanghai AI Lab: **A Study of Parameter Corruption of Neural Networks** (神经网络参数扰动的研究), Aug. 2022
 - Huawei - Peking Univ. Academic Forum: **Limitation and Improvement of Federated Aggregation Algorithm on Natural Language Processing Tasks** (联邦聚合算法在自然语言处理任务上的局限性及改进), July 2022
 - Beijing Language & Culture University: **A Overview of Adversarial Attacks** (对抗攻击综述报告), Dec. 2021
 
-# Services
+## Services
 - As reviewers of AAAI, ACL, TACL, ECML, NLPCC, etc.
 - Teach assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"
 
-# Paper List      
+## Paper List      
 
-## Deep Learning: Optimization, Robustness and Security
+### Deep Learning: Optimization, Robustness and Security
 
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
@@ -181,7 +181,7 @@ layout: default
   Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun, Yuexian Zou   
   In **COLING** 2020 [[pdf](https://aclanthology.org/2020.coling-main.320.pdf),  [cite](https://dblp.uni-trier.de/rec/conf/coling/LiuRZSZ20.html?view=bibtex)]
   
-## Natural Language Processing Applications
+### Natural Language Processing Applications
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
@@ -206,7 +206,7 @@ layout: default
   Comment: Releasing a Chinese dependency treebank dataset [[github](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)] of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
   In **LREC** 2018 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis), [cite](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)]      
 
-## Quantitative Finance and Time Series Analysis
+### Quantitative Finance and Time Series Analysis
   
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    

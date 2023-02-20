@@ -32,8 +32,8 @@ layout: default
   In **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.emnlp-main.257.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangL0022.html?view=bibtex)]         
 - **Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation**    
   **Zhiyuan Zhang**, Qi Su and Xu Sun        
-  In **Findings of EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]          
-
+  In **Findings of EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]           
+       
 - **Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Xingjun Ma, Chenguang Wang and Xu Sun       
   In **Findings of EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.26.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              

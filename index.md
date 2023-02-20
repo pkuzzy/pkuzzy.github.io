@@ -19,8 +19,106 @@ layout: default
   Bachelor of Science in Computer Science, at School of EECS, Peking University.   
   GPA: 3.76/4.00, Rank 6/204. 
  
-# Publication
+# Publications
 **Selected** (<sup>\#</sup>equal contribution). [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
+
+- **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
+  **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
+  In **Neurocomputing** 2022  [[pdf](https://arxiv.org/pdf/2108.08976.pdf), [doi](https://doi.org/10.1016/j.neucom.2022.12.013), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]
+
+- **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
+  **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
+  Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[pdf](https://arxiv.org/pdf/2109.02889.pdf)].           
+  In **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.emnlp-main.257.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangL0022.html?view=bibtex)]         
+- **Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation**    
+  **Zhiyuan Zhang**, Qi Su and Xu Sun        
+  In **Findings of EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]          
+
+- **Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models**  
+  **Zhiyuan Zhang**, Lingjuan Lyu, Xingjun Ma, Chenguang Wang and Xu Sun       
+  In **Findings of EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.26.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              
+
+- **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
+  **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
+  Comment: Also related to our previous paper: Neural Network Surgery [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf)].      
+  In **ICLR** 2022 [[pdf](https://openreview.net/pdf?id=Bn09TnDngN), [cite](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)]      
+
+- **Adversarial Parameter Defense by Multi-step Risk Minimization**     
+  **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   
+  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)].    
+  In **Neural Networks** 2021 [[pdf](https://arxiv.org/pdf/2109.02889.pdf), [doi](https://doi.org/10.1016/j.neunet.2021.08.022), [cite](https://dblp.uni-trier.de/rec/journals/nn/ZhangLRSLS21.html?view=bibtex)]    
+  
+- **Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects**    
+  **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun, Bin He  
+  Comment: Besides injecting data patterns with minimal instance-wise side effects, also about NLP backdoors for both benign and malicious purposes.     
+  In **NAACL** 2021 [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf), [cite](https://dblp.uni-trier.de/rec/conf/naacl/ZhangRSSH21.html?view=bibtex)]     
+
+- **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
+  Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li    
+  Comment: The analysis of the robustness against parameter corruption or perturbation.       
+  In **AAAI** 2021 [[pdf](https://arxiv.org/pdf/2006.05620.pdf), [cite](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)]     
+
+- **Memorized Sparse Backpropagation**    
+  **Zhiyuan Zhang**, Pengcheng Yang, Xuancheng Ren, Qi Su, Xu Sun    
+  In **Neurocomputing** 2020 [[pdf](https://arxiv.org/pdf/1905.10194.pdf), [doi](https://doi.org/10.1016/j.neucom.2020.08.055), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangYRSS20.html?view=bibtex)]  
+
+- **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
+  Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
+  Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[github](https://github.com/lancopku/pkuseg-python)].     
+  Preprint [[pdf](https://arxiv.org/pdf/1906.11455.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
+  
+- **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**     
+  Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**      
+  Comment: Releasing a Chinese dependency treebank dataset [[github](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)] of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
+  In **LREC** 2018 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis), [cite](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)]      
+
+- **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
+  Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
+  Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
+  In FinNLP 2022 (Financial Technology and NLP) [To appear]                    
+  
+# Patents
+- **一种模型训练方法及装置**     
+  China Patent, No.: 202110221446.7, 2022   
+  **Zhiyuan Zhang**, Xu Sun, Ruixuan Luo, Bin He (Huawei)    
+  
+- **一种模型的更新方法、装置及设备**   
+  China Patent, No.: 202111094859.X, 2021    
+  **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang (Ant Group)     
+  
+- **一种模型训练方法及装置**   
+  China Patent, No.: 202110475677.0, 2021        
+  **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He, Li Qian (Huawei)     
+
+# Awards
+- **Phd student period**
+  - Yang Fuqing & Wang Yangyuan Academician Scholarship, 2022
+  - Outstanding Research Award in Peking University, 2022
+  - Huatai Securities Technology Scholarship, 2021
+  - Merit Student in Peking University, 2021
+  - Academic Excellence Award in Peking University, 2020
+  - Peking University President Scholarship, 2019, 2020, 2021
+- **Undergraduate period**
+  - Outstanding Graduates in Peking University, 2019
+  - Merit Student in Peking University, 2016, 2017
+  - National Scholarship, 2016
+
+# Internships
+- Research Intern at Tencent, WeChat AI, 2022 - Now
+- Research grant support from Mizuho Securities, 2021 - Now
+- Research Intern at Ant Group, 2021
+- Research grant support from Huawei Noah’s Ark Lab, 2020 - 2021
+
+# Invited Talks
+- Shanghai AI Lab: A Study of Parameter Corruption of Neural Networks (神经网络参数扰动的研究), Aug. 2022
+- Huawei - Peking Univ. Academic Forum: Limitation and Improvement of Federated Aggregation Algorithm on Natural Language Processing Tasks (联邦聚合算法在自然语言处理任务上的局限性及改进), July 2022
+- Beijing Language & Culture University: A Overview of Adversarial Attacks (对抗攻击综述报告), Dec. 2021
+
+# Services
+- As a reviewer of AAAI, ACL, TACL, ECML, NLPCC, etc.
+- Teach assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"
+
+# Paper List      
 
 ### Deep Learning: Optimization, Robustness and Security
 
@@ -133,39 +231,3 @@ layout: default
  - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**   
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   In RSEML 2021 (Robust, Secure, and Efficient ML) [[pdf](https://arxiv.org/pdf/2012.13489.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2012-13489.html?view=bibtex)]      
-  
-# Patent
-- **一种模型训练方法及装置**     
-  China Patent, No.: 202110221446.7, 2022   
-  **Zhiyuan Zhang**, Xu Sun, Ruixuan Luo, Bin He (Huawei)    
-  
-- **一种模型的更新方法、装置及设备**   
-  China Patent, No.: 202111094859.X, 2021    
-  **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang (Ant Group)     
-  
-- **一种模型训练方法及装置**   
-  China Patent, No.: 202110475677.0, 2021        
-  **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He, Li Qian (Huawei)     
-
-# Internship
-- Research Intern at Tencent, WeChat AI (WXG-PRC), 2022 - Now
-- Research grant support from Mizuho Securities, 2021 - Now
-- Research Intern at Ant Group, 2021
-- Research grant support from Huawei Noah’s Ark Lab, 2020 - 2021
-
-# Awards
-- **Phd student period**
-  - Yang Fuqing & Wang Yangyuan Academician Scholarship, 2022
-  - Outstanding Research Award in Peking University, 2022
-  - Huatai Securities Technology Scholarship, 2021
-  - Merit Student in Peking University, 2021
-  - Academic Excellence Award in Peking University, 2020
-  - Peking University President Scholarship, 2019, 2020, 2021
-- **Undergraduate period**
-  - Outstanding Graduates in Peking University, 2019
-  - Merit Student in Peking University, 2016, 2017
-  - National Scholarship, 2016
-
-# Services
-- As a reviewer of AAAI, ACL, TACL, ECML, NLPCC, etc.
-- Teach assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"

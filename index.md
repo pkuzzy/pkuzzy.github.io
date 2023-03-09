@@ -77,9 +77,9 @@ layout: default
   In **LREC** 2018 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis), [cite](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)]      
 
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
-  Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
+  Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:n4Uu3AG1ZHIJ:scholar.google.com/&output=citation&scisdr=CgXpYolLENzh5pLTb94:AAGBfm0AAAAAZAnVd974VEEo7V3kWr4gxKmQTZdHkwO-&scisig=AAGBfm0AAAAAZAnVd-YQnu6AvRLYRoNuBkEU4OINPZZs&scisf=4&ct=citation&cd=-1&hl=zh-CN)]                          
+  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [cite](https://www.semanticscholar.org/paper/No-Stock-is-an-Island%3A-Learning-Internal-and-of-Li-Li/a89aab0fcbf06867c32e8444529dc6545b636964)]                          
   
 # Patents
 - **一种模型训练方法及装置**     
@@ -214,9 +214,9 @@ layout: default
 ### Quantitative Finance and Time Series Analysis
   
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
-  Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
+  Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:n4Uu3AG1ZHIJ:scholar.google.com/&output=citation&scisdr=CgXpYolLENzh5pLTb94:AAGBfm0AAAAAZAnVd974VEEo7V3kWr4gxKmQTZdHkwO-&scisig=AAGBfm0AAAAAZAnVd-YQnu6AvRLYRoNuBkEU4OINPZZs&scisf=4&ct=citation&cd=-1&hl=zh-CN)]           
+  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [cite](https://www.semanticscholar.org/paper/No-Stock-is-an-Island%3A-Learning-Internal-and-of-Li-Li/a89aab0fcbf06867c32e8444529dc6545b636964)]           
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
@@ -232,7 +232,7 @@ layout: default
   
 - **Incremental Stock Volume Prediction with Gradient Distillation and Diversified Memory Selection**   
   Shicheng Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **AI4TS** 2022 (AI for Time Series Analysis) [[pdf](https://ai4ts.github.io/CameraReadys/11/CameraReady/IJCAI22_Incremental_Volume_Prediction%20(camera%20ready).pdf), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:phvzxM5miRcJ:scholar.google.com/&output=citation&scisdr=CgXpYolLENzh5pLTPUc:AAGBfm0AAAAAZAnVJUcPiy5JKNrPO6JrCBFTnXtnCKpZ&scisig=AAGBfm0AAAAAZAnVJTiJWFD9Zx-04bDeUPT4paBf47za&scisf=4&ct=citation&cd=-1&hl=zh-CN)]     
+  In **AI4TS** 2022 (AI for Time Series Analysis) [[pdf](https://ai4ts.github.io/CameraReadys/11/CameraReady/IJCAI22_Incremental_Volume_Prediction%20(camera%20ready).pdf), [cite](https://scholar.google.com/scholar?q=Incremental+Stock+Volume+Prediction+with+Gradient+Distillation+and+Diversified+Memory+Selection&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]     
   
  - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**   
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    

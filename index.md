@@ -79,7 +79,7 @@ layout: default
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP) [To appear]                    
+  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:n4Uu3AG1ZHIJ:scholar.google.com/&output=citation&scisdr=CgXpYqlLENzh5pLUPaw:AAGBfm0AAAAAZAnSJawvzvEdSTpJcWJFZD27nIwzZ3Mt&scisig=AAGBfm0AAAAAZAnSJcWQzVjJAFDp9SO6MXYTVLrE735p&scisf=4&ct=citation&cd=-1&hl=zh-CN)]                           
   
 # Patents
 - **一种模型训练方法及装置**     
@@ -110,11 +110,12 @@ layout: default
 
 # Internships
 - Research Intern at Tencent, WeChat AI, 2022 - Now
-- Research grant support from Mizuho Securities, 2021 - Now
 - Research Intern at Ant Group, 2021
+- Research grant support from Mizuho Securities, 2021 - Now
 - Research grant support from Huawei Noah’s Ark Lab, 2020 - 2021
 
 # Invited Talks
+- AI Time, 首场大模型专场, 四位讲者分享大模型研究畅聊ChatGPT: **Mitigating Backdoors in Large Language Models** (消除大模型中的后门), March 2023
 - Shanghai AI Lab: **A Study of Parameter Corruption of Neural Networks** (神经网络参数扰动的研究), Aug. 2022
 - Huawei - Peking Univ. Academic Forum: **Limitation and Improvement of Federated Aggregation Algorithm on Natural Language Processing Tasks** (联邦聚合算法在自然语言处理任务上的局限性及改进), July 2022
 - Beijing Language & Culture University: **A Overview of Adversarial Attacks** (对抗攻击综述报告), Dec. 2021
@@ -215,7 +216,7 @@ layout: default
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP) [To appear]           
+  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:n4Uu3AG1ZHIJ:scholar.google.com/&output=citation&scisdr=CgXpYqlLENzh5pLUPaw:AAGBfm0AAAAAZAnSJawvzvEdSTpJcWJFZD27nIwzZ3Mt&scisig=AAGBfm0AAAAAZAnSJcWQzVjJAFDp9SO6MXYTVLrE735p&scisf=4&ct=citation&cd=-1&hl=zh-CN)]           
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
@@ -223,15 +224,15 @@ layout: default
   
 - **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**    
   Lei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **ECML-PKDD** 2022 [To appear]     
+  In **ECML-PKDD** 2022 [[pdf](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_410.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2208-07232.html?view=bibtex)]     
 
 - **Stock Trading Volume Prediction with Dual-Process Meta-Learning**   
   Ruibo Chen, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun     
-  In **ECML-PKDD** 2022 [To appear]    
+  In **ECML-PKDD** 2022 [[pdf](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_662.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2211-01762.html?view=bibtex)]    
   
 - **Incremental Stock Volume Prediction with Gradient Distillation and Diversified Memory Selection**   
   Shicheng Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **AI4TS** 2022 (AI for Time Series Analysis) [To appear]     
+  In **AI4TS** 2022 (AI for Time Series Analysis) [[pdf](https://ai4ts.github.io/CameraReadys/11/CameraReady/IJCAI22_Incremental_Volume_Prediction%20(camera%20ready).pdf), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:phvzxM5miRcJ:scholar.google.com/&output=citation&scisdr=CgXpYqlLENzh5pLWbwE:AAGBfm0AAAAAZAnQdwFunbtQXR8T6WWPnTAVfWp2M7o_&scisig=AAGBfm0AAAAAZAnQdxQiZw-HQuSnmnfqCjiliVxp4Rg3&scisf=4&ct=citation&cd=-1&hl=zh-CN)]     
   
  - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**   
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    

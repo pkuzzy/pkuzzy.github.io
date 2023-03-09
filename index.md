@@ -79,7 +79,7 @@ layout: default
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:n4Uu3AG1ZHIJ:scholar.google.com/&output=citation&scisdr=CgXpYqlLENzh5pLUPaw:AAGBfm0AAAAAZAnSJawvzvEdSTpJcWJFZD27nIwzZ3Mt&scisig=AAGBfm0AAAAAZAnSJcWQzVjJAFDp9SO6MXYTVLrE735p&scisf=4&ct=citation&cd=-1&hl=zh-CN)]                           
+  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://scholar.googleusercontent.com/scholar.bib?q=info:n4Uu3AG1ZHIJ:scholar.google.com/&output=citation&scisdr=CgXpYolLENzh5pLTb94:AAGBfm0AAAAAZAnVd974VEEo7V3kWr4gxKmQTZdHkwO-&scisig=AAGBfm0AAAAAZAnVd-YQnu6AvRLYRoNuBkEU4OINPZZs&scisf=4&ct=citation&cd=-1&hl=zh-CN)]                           
   
 # Patents
 - **一种模型训练方法及装置**     

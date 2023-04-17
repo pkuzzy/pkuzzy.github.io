@@ -122,7 +122,7 @@ layout: default
 
 # Services
 - As reviewers of AAAI, ACL, TACL, ECML, NLPCC, etc.
-- Teach assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"
+- Teaching assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"
 
 # Paper List      
 

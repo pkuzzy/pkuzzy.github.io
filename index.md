@@ -27,7 +27,7 @@ layout: default
 
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
-  In **Neurocomputing** 2022  [[pdf](https://arxiv.org/pdf/2108.08976.pdf), [doi](https://doi.org/10.1016/j.neucom.2022.12.013), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]          
+  In **Neurocomputing** 2023  [[pdf](https://arxiv.org/pdf/2108.08976.pdf), [doi](https://doi.org/10.1016/j.neucom.2022.12.013), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]          
 
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      

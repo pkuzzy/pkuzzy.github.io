@@ -23,7 +23,7 @@ layout: default
   GPA: 3.76/4.00, Rank: 6/204. 
  
 # Selected Publications
-**Selected** (<sup>\#</sup>equal contribution). [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
+Zhiyuan Zhang has published **25 papers**, including **13 first-author papers**. The papers have been **cited 650+ times** in Google Scholar up to June 2023. Followings are **selected** publications. (<sup>\#</sup>: Equal Contribution). [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
 
 - **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun                 

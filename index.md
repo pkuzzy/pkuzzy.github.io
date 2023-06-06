@@ -27,7 +27,7 @@ Zhiyuan Zhang has published **27 papers**, including **13 first-author papers**.
 
 - **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun                 
-  In **ACL** Findings 2023 [[pdf](https://arxiv.org/pdf/2305.04547.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2305-04547.html?view=bibtex)]                     
+  In Findings of **ACL** 2023 [[pdf](https://arxiv.org/pdf/2305.04547.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2305-04547.html?view=bibtex)]                     
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
@@ -40,11 +40,11 @@ Zhiyuan Zhang has published **27 papers**, including **13 first-author papers**.
                 
 - **Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation**    
   **Zhiyuan Zhang**, Qi Su and Xu Sun        
-  In **EMNLP** Findings 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]           
+  In Findings of **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]           
        
 - **Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Xingjun Ma, Chenguang Wang and Xu Sun       
-  In **EMNLP** Findings 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.26.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              
+  In Findings of **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.26.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
@@ -138,7 +138,7 @@ Zhiyuan Zhang has published **27 papers**, including **13 first-author papers**.
 
 - **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun                 
-  In **ACL** Findings 2023 [[pdf](https://arxiv.org/pdf/2305.04547.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2305-04547.html?view=bibtex)]                       
+  In Findings of **ACL** 2023 [[pdf](https://arxiv.org/pdf/2305.04547.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2305-04547.html?view=bibtex)]                       
   
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
@@ -147,11 +147,11 @@ Zhiyuan Zhang has published **27 papers**, including **13 first-author papers**.
 
 - **Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation**    
   **Zhiyuan Zhang**, Qi Su and Xu Sun        
-  In **EMNLP** Findings 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]          
+  In Findings of **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]          
 
 - **Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Xingjun Ma, Chenguang Wang and Xu Sun       
-  In **EMNLP** Findings 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.26.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              
+  In Findings of **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.26.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
@@ -179,7 +179,7 @@ Zhiyuan Zhang has published **27 papers**, including **13 first-author papers**.
 
 - **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**       
   Sishuo Chen, Wenkai Yang, **Zhiyuan Zhang**, Xiaohan Bi and Xu Sun  
-  In **EMNLP** Findings 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.47.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ChenYZBS22.html?view=bibtex)]     
+  In Findings of **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.47.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ChenYZBS22.html?view=bibtex)]     
 
 - **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**    
   Wenkai Yang, Lei Li, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He  
@@ -208,7 +208,7 @@ Zhiyuan Zhang has published **27 papers**, including **13 first-author papers**.
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He      
   Comment: The full version: preprint [[openreview](https://openreview.net/forum?id=HJlv-Fz-pS)].    
-  In **EMNLP** Findings 2020 (short) [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)]         
+  In Findings of **EMNLP** 2020 (short) [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)]         
   
 - **Automatic Translating between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora**    
   **Zhiyuan Zhang**, Wei Li, Qi Su    

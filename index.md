@@ -28,6 +28,7 @@ layout: default
 - **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun                 
   In **ACL** Findings 2023 [[pdf](https://arxiv.org/pdf/2305.04547.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2305-04547.html?view=bibtex)]                     
+  
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
   In **Neurocomputing** 2023  [[pdf](https://arxiv.org/pdf/2108.08976.pdf), [doi](https://doi.org/10.1016/j.neucom.2022.12.013), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]          
@@ -137,7 +138,8 @@ layout: default
 
 - **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun                 
-  In **ACL** Findings 2023 [[pdf](https://arxiv.org/pdf/2305.04547.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2305-04547.html?view=bibtex)]                            
+  In **ACL** Findings 2023 [[pdf](https://arxiv.org/pdf/2305.04547.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2305-04547.html?view=bibtex)]                       
+  
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
   Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[pdf](https://arxiv.org/pdf/2109.02889.pdf)].           

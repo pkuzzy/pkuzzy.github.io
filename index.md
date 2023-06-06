@@ -123,7 +123,7 @@ Zhiyuan Zhang has published **27 papers**, including **13 first-author papers**.
 # Invited Talks
 - AI Time, 首场大模型专场, 四位讲者分享大模型研究畅聊ChatGPT: **Mitigating Backdoors in Large Language Models** (消除大模型中的后门), March 2023
 - Shanghai AI Lab: **A Study of Parameter Corruption of Neural Networks** (神经网络参数扰动的研究), Aug. 2022
-- Huawei - Peking Univ. Academic Forum: **Limitation and Improvement of Federated Aggregation Algorithm on Natural Language Processing Tasks** (联邦聚合算法在自然语言处理任务上的局限性及改进), July 2022
+- Huawei - Peking University Academic Forum: **Limitation and Improvement of Federated Aggregation Algorithm on Natural Language Processing Tasks** (联邦聚合算法在自然语言处理任务上的局限性及改进), July 2022
 - Beijing Language & Culture University: **A Overview of Adversarial Attacks** (对抗攻击综述报告), Dec. 2021
 
 # Services

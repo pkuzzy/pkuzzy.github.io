@@ -25,6 +25,9 @@ layout: default
 # Selected Publications
 **Selected** (<sup>\#</sup>equal contribution). [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
 
+- **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
+  **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun                 
+  In **ACL** Findings 2023 [[pdf](https://arxiv.org/pdf/2305.04547.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2305-04547.html?view=bibtex)]           
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
   In **Neurocomputing** 2023  [[pdf](https://arxiv.org/pdf/2108.08976.pdf), [doi](https://doi.org/10.1016/j.neucom.2022.12.013), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]          
@@ -36,11 +39,11 @@ layout: default
                 
 - **Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation**    
   **Zhiyuan Zhang**, Qi Su and Xu Sun        
-  In **Findings of EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]           
+  In **EMNLP** Findings 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]           
        
 - **Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Xingjun Ma, Chenguang Wang and Xu Sun       
-  In **Findings of EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.26.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              
+  In **EMNLP** Findings 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.26.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
@@ -96,23 +99,25 @@ layout: default
 
 # Awards
 - **Phd student period**
+  - Peking University President Scholarship (**Highest Ph.D. scholarship**), 2019, 2020, 2021
+  - Financial Technology and Natural Language Processing 2022: **Best Paper Award**, 2022
   - Yang Fuqing & Wang Yangyuan Academician Scholarship, 2022
   - Outstanding Research Award in Peking University, 2022
   - Huatai Securities Technology Scholarship, 2021
   - Merit Student in Peking University, 2021
-  - Academic Excellence Award in Peking University, 2020 
-  - Peking University President Scholarship, 2019, 2020, 2021
+  - Academic Excellence Award in Peking University, 2020  
   
 - **Undergraduate period**
-  - Outstanding Graduates in Peking University, 2019 
+  - **Outstanding Graduates** in Peking University, 2019 
   - Merit Student in Peking University, 2016, 2017 
-  - National Scholarship, 2016
+  - Second Prize in Peking University ACM, 2016
+  - **National Scholarship**, 2016
 
 # Internships
 - Research Intern at Tencent, WeChat AI, 2022 - Now
 - Research Intern at Ant Group, 2021
-- Research grant support from Mizuho Securities, 2021 - Now
-- Research grant support from Huawei Noah’s Ark Lab, 2020 - 2021
+- Research Grant Support from Mizuho Securities, 2021 - Now
+- Research Grant Support from Huawei Noah’s Ark Lab, 2020 - 2021
 
 # Invited Talks
 - AI Time, 首场大模型专场, 四位讲者分享大模型研究畅聊ChatGPT: **Mitigating Backdoors in Large Language Models** (消除大模型中的后门), March 2023
@@ -122,12 +127,17 @@ layout: default
 
 # Services
 - As reviewers of AAAI, ACL, TACL, ECML, NLPCC, etc.
-- Teaching assistant for "Intro. to Natural Language Processing", "Foundations of Computer Application"
+- Teaching assistant for "Introduction to Natural Language Processing", "Foundations of Computer Application"
+- Maintain a paper list about robustness and security in deep learning on GitHub as a contributor
+(700+ stars at GitHub: github.com/THUYimingLi/backdoor-learning-resources)   
 
 # Paper List      
 
 ### Deep Learning: Optimization, Robustness and Security
 
+- **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
+  **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun                 
+  In **ACL** Findings 2023 [[pdf](https://arxiv.org/pdf/2305.04547.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2305-04547.html?view=bibtex)]           
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
   Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[pdf](https://arxiv.org/pdf/2109.02889.pdf)].           
@@ -135,11 +145,11 @@ layout: default
 
 - **Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation**    
   **Zhiyuan Zhang**, Qi Su and Xu Sun        
-  In **Findings of EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]          
+  In **EMNLP** Findings 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]          
 
 - **Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Xingjun Ma, Chenguang Wang and Xu Sun       
-  In **Findings of EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.26.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              
+  In **EMNLP** Findings 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.26.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
@@ -167,7 +177,7 @@ layout: default
 
 - **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**       
   Sishuo Chen, Wenkai Yang, **Zhiyuan Zhang**, Xiaohan Bi and Xu Sun  
-  In **Findings of EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.47.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ChenYZBS22.html?view=bibtex)]     
+  In **EMNLP** Findings 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.47.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ChenYZBS22.html?view=bibtex)]     
 
 - **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**    
   Wenkai Yang, Lei Li, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He  
@@ -196,7 +206,7 @@ layout: default
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He      
   Comment: The full version: preprint [[openreview](https://openreview.net/forum?id=HJlv-Fz-pS)].    
-  In **Findings of EMNLP** 2020 (short) [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)]         
+  In **EMNLP** Findings 2020 (short) [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)]         
   
 - **Automatic Translating between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora**    
   **Zhiyuan Zhang**, Wei Li, Qi Su    

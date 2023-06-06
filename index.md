@@ -83,7 +83,7 @@ Zhiyuan Zhang has published **25 papers**, including **13 first-author papers**.
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [cite](https://www.semanticscholar.org/paper/No-Stock-is-an-Island%3A-Learning-Internal-and-of-Li-Li/a89aab0fcbf06867c32e8444529dc6545b636964)]                          
+  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://www.semanticscholar.org/paper/No-Stock-is-an-Island%3A-Learning-Internal-and-of-Li-Li/a89aab0fcbf06867c32e8444529dc6545b636964)]                          
   
 # Patents
 - **一种模型训练方法及装置**     
@@ -203,7 +203,7 @@ Zhiyuan Zhang has published **25 papers**, including **13 first-author papers**.
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
   Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[github](https://github.com/lancopku/pkuseg-python)].     
-  Preprint [[pdf](https://arxiv.org/pdf/1906.11455.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
+  Preprint [[pdf](https://arxiv.org/pdf/1906.11455.pdf), [cite](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
   
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He      
@@ -223,6 +223,15 @@ Zhiyuan Zhang has published **25 papers**, including **13 first-author papers**.
   Comment: Releasing a Chinese dependency treebank dataset [[github](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)] of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
   In **LREC** 2018 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis), [cite](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)]      
 
+- **Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection**     
+  Guangxiang Zhao, Junyang Lin, **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun        
+  Preprint [[pdf](https://arxiv.org/pdf/1912.11637.pdf), [code](https://github.com/lancopku/Explicit-Sparse-Transformer), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1912-11637.html?view=bibtex)]      
+  
+- **MUSE: Parallel Multi-Scale Attention for Sequence to Sequence Learning**     
+  Guangxiang Zhao, Xu Sun, Jingjing Xu, **Zhiyuan Zhang**, Liangchen Luo          
+  Preprint [[pdf](https://arxiv.org/pdf/1911.09483.pdf), [code](https://github.com/lancopku/Prime), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1911-09483.html?view=bibtex)]       
+  
+  
 ### Quantitative Finance and Time Series Analysis
   
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     

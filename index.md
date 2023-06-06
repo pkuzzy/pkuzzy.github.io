@@ -130,7 +130,7 @@ Zhiyuan Zhang has published **27 papers**, including **13 first-author papers**.
 - As reviewers of AAAI, ACL, TACL, ECML, NLPCC, etc.
 - Teaching assistant for "Introduction to Natural Language Processing", "Foundations of Computer Application"
 - Maintain a paper list about robustness and security in deep learning on GitHub as a contributor
-(700+ stars at GitHub: github.com/THUYimingLi/backdoor-learning-resources)   
+(**700+ stars** at GitHub: github.com/THUYimingLi/backdoor-learning-resources)   
 
 # Paper List      
 

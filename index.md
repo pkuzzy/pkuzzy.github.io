@@ -23,11 +23,11 @@ layout: default
   GPA: 3.76/4.00, Rank: 6/204. 
  
 # Selected Publications
-Zhiyuan Zhang has published **27 papers**, including **13 first-author papers**. The papers have been **cited 650+ times** in Google Scholar up to June 2023. Followings are **selected** publications. (<sup>\#</sup>: Equal Contribution). [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
+Zhiyuan Zhang has published **28 papers**, including **13 first-author papers**. The papers have been **cited 750+ times** in Google Scholar up to Sept 2023. Followings are **selected** publications. (<sup>\#</sup>: Equal Contribution). [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
 
 - **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
-  **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun                 
-  In Findings of **ACL** 2023 [[pdf](https://arxiv.org/pdf/2305.04547.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2305-04547.html?view=bibtex)]                     
+  **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun                 
+  In Findings of **ACL** 2023 [[pdf](https://aclanthology.org/2023.findings-acl.157/), [cite](https://dblp.uni-trier.de/rec/conf/acl/ZhangCZMZ023.html?view=bibtex)]                     
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
@@ -137,8 +137,8 @@ Zhiyuan Zhang has published **27 papers**, including **13 first-author papers**.
 ### Deep Learning: Optimization, Robustness and Security
 
 - **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
-  **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun                 
-  In Findings of **ACL** 2023 [[pdf](https://arxiv.org/pdf/2305.04547.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2305-04547.html?view=bibtex)]                       
+  **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun                 
+  In Findings of **ACL** 2023 [[pdf](https://aclanthology.org/2023.findings-acl.157/), [cite](https://dblp.uni-trier.de/rec/conf/acl/ZhangCZMZ023.html?view=bibtex)]                        
   
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      

@@ -14,9 +14,9 @@ layout: default
 
 # Education
 
-- **Sept. 2019 - Now**  
+- **Sept. 2019 - Jul. 2024 (Expected)**  
   PhD student, majoring in Computer Software and Theory, at School of Computer Science, Peking University.   
-  Advisor: Xu Sun. GPA: 3.85/4.00, Rank: 1/23. 
+  Advisor: Xu Sun. GPA: 3.85/4.00. 
   
 - **Sept. 2015 - Jul. 2019**  
   Bachelor of Science in Computer Science, at School of EECS, Peking University.   

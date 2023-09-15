@@ -233,7 +233,7 @@ Zhiyuan Zhang has published **28 papers**, including **14 first-author papers**.
   
   
 ### Quantitative Finance and Time Series Analysis
-  
+
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
@@ -242,6 +242,10 @@ Zhiyuan Zhang has published **28 papers**, including **14 first-author papers**.
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
   In **Neurocomputing** 2022  [[pdf](https://arxiv.org/pdf/2108.08976.pdf), [doi](https://doi.org/10.1016/j.neucom.2022.12.013), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]         
+
+- **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**   
+  Ruibo Chen<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Yi Liu, Ruihan Bao, Keiko Harimoto, Xu Sun   
+  In **KDD-MLF** 2023 [[pdf](https://arxiv.org/pdf/2309.05608v1.pdf), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:0CRJRdtzfXwJ:scholar.google.com/&output=citation&scisdr=ClE6a_hqEM7uj4W7v-0:AFWwaeYAAAAAZQO9p-3cBKVhE7AI5wqbe6pknSQ&scisig=AFWwaeYAAAAAZQO9pyxb5L5DXtagWyFpuDNb_RQ&scisf=4&ct=citation&cd=-1&hl=zh-CN), [code](https://github.com/rayruibochen/promuse)]  
   
 - **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**    
   Lei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    

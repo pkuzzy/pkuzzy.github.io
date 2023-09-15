@@ -237,7 +237,7 @@ Zhiyuan Zhang has published **28 papers**, including **14 first-author papers**.
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [cite](https://www.semanticscholar.org/paper/No-Stock-is-an-Island%3A-Learning-Internal-and-of-Li-Li/a89aab0fcbf06867c32e8444529dc6545b636964)]           
+  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [google_scholar](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=No+Stock+is+an+Island%3A+Learning+Internal+and+Relational+Attributes+of+Stocks+with+Contrastive+Learning&btnG=)]           
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
@@ -245,7 +245,7 @@ Zhiyuan Zhang has published **28 papers**, including **14 first-author papers**.
 
 - **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**   
   Ruibo Chen<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Yi Liu, Ruihan Bao, Keiko Harimoto, Xu Sun   
-  In **KDD-MLF** 2023 [[pdf](https://arxiv.org/pdf/2309.05608v1.pdf), [code](https://github.com/rayruibochen/promuse), [cite](https://scholar.google.com/scholar?q=Incorporating+Pre-trained+Model+Prompting+in+Multimodal+Stock+Volume+Movement+Prediction&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]  
+  In **MLF** 2023 (ML in Finance) [[google_scholar](https://scholar.google.com/scholar?q=Incorporating+Pre-trained+Model+Prompting+in+Multimodal+Stock+Volume+Movement+Prediction&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]    
   
 - **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**    
   Lei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
@@ -257,8 +257,8 @@ Zhiyuan Zhang has published **28 papers**, including **14 first-author papers**.
   
 - **Incremental Stock Volume Prediction with Gradient Distillation and Diversified Memory Selection**   
   Shicheng Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **AI4TS** 2022 (AI for Time Series Analysis) [[pdf](https://ai4ts.github.io/CameraReadys/11/CameraReady/IJCAI22_Incremental_Volume_Prediction%20(camera%20ready).pdf), [cite](https://scholar.google.com/scholar?q=Incremental+Stock+Volume+Prediction+with+Gradient+Distillation+and+Diversified+Memory+Selection&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]     
+  In **AI4TS** 2022 (AI for Time Series Analysis) [[google_scholar](https://scholar.google.com/scholar?q=Incremental+Stock+Volume+Prediction+with+Gradient+Distillation+and+Diversified+Memory+Selection&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]     
   
  - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**   
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **RSEML** 2021 (Robust, Secure, and Efficient ML) [[pdf](https://arxiv.org/pdf/2012.13489.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2012-13489.html?view=bibtex)]      
+  In **RSEML** 2021 (Robust, Secure, and Efficient ML) [[google_scholar](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Learning+Robust+Representation+for+Clustering+through+Locality+Preserving+Variational+Discriminative+Network&btnG=)]      

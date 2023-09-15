@@ -245,7 +245,7 @@ Zhiyuan Zhang has published **28 papers**, including **14 first-author papers**.
 
 - **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**   
   Ruibo Chen<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Yi Liu, Ruihan Bao, Keiko Harimoto, Xu Sun   
-  In **KDD-MLF** 2023 [[pdf](https://arxiv.org/pdf/2309.05608v1.pdf), [code](https://github.com/rayruibochen/promuse),[cite](https://scholar.googleusercontent.com/scholar.bib?q=info:0CRJRdtzfXwJ:scholar.google.com/&output=citation&scisdr=ClE6a_hqEM7uj4W7v-0:AFWwaeYAAAAAZQO9p-3cBKVhE7AI5wqbe6pknSQ&scisig=AFWwaeYAAAAAZQO9pyxb5L5DXtagWyFpuDNb_RQ&scisf=4&ct=citation&cd=-1&hl=zh-CN)]  
+  In **KDD-MLF** 2023 [[pdf](https://arxiv.org/pdf/2309.05608v1.pdf), [code](https://github.com/rayruibochen/promuse), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:0CRJRdtzfXwJ:scholar.google.com/&output=citation&scisdr=ClE6a_hqEM7uj4W7v-0:AFWwaeYAAAAAZQO9p-3cBKVhE7AI5wqbe6pknSQ&scisig=AFWwaeYAAAAAZQO9pyxb5L5DXtagWyFpuDNb_RQ&scisf=4&ct=citation&cd=-1&hl=zh-CN)]  
   
 - **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**    
   Lei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    

@@ -115,10 +115,10 @@ Zhiyuan Zhang has published **28 papers**, including **14 first-author papers**.
   - **National Scholarship**, 2016
 
 # Internships
-- Research Intern at Tencent, WeChat AI, 2022 - Now
-- Research Intern at Ant Group, 2021
-- Research Grant Support from Mizuho Securities, 2021 - Now
-- Research Grant Support from Huawei Noah’s Ark Lab, 2020 - 2021
+- Research Intern at Tencent, **WeChat AI**, 2022 - 2024
+- Research Intern at **Ant Group**, 2021
+- Research Grant Support from **Mizuho Securities**, 2021 - 2024
+- Research Grant Support from **Huawei Noah’s Ark Lab**, 2020 - 2021
 
 # Invited Talks
 - AI Time, 首场大模型专场, 四位讲者分享大模型研究畅聊ChatGPT: **Mitigating Backdoors in Large Language Models** (消除大模型中的后门), March 2023

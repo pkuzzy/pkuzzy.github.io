@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Biography
-**Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
+**Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [**Xu Sun (孙栩)**](https://xusun.org), at School of Computer Science, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
 
 # Research Interests
 - **Deep Learning**
@@ -16,16 +16,17 @@ layout: default
 
 - **Sept. 2019 - Jul. 2024 (Expected)**  
   PhD student, majoring in Computer Software and Theory, at School of Computer Science, Peking University.   
-  Advisor: Xu Sun. GPA: 3.85/4.00. 
+  **Advisor**: [Xu Sun (孙栩)](https://xusun.org). **GPA**: 3.85/4.00. 
   
 - **Sept. 2015 - Jul. 2019**  
   Bachelor of Science in Computer Science, at School of EECS, Peking University.   
-  GPA: 3.76/4.00, Rank: 6/204. 
+  **GPA**: 3.76/4.00, **Rank**: 6/204. 
  
 # Selected Publications
-Zhiyuan Zhang has published **29 papers**, including **15 first-author papers**. The papers have been **cited 800+ times** in Google Scholar up to Dec. 2023. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
+Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The papers have been **cited 800+ times** in Google Scholar up to Dec. 2023. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
 
-[[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [OpenReview](https://openreview.net/profile?id=~Zhiyuan_Zhang1)] [DBLP](https://dblp.uni-trier.de/pid/72/1760-1.html)], [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
+
+[[**Google Scholar**](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [**OpenReview**](https://openreview.net/profile?id=~Zhiyuan_Zhang1), [**DBLP**](https://dblp.uni-trier.de/pid/72/1760-1.html)], [**Semantic Scholar**](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
 
 
 - **Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense**    
@@ -41,45 +42,48 @@ Zhiyuan Zhang has published **29 papers**, including **15 first-author papers**.
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
   In **Neurocomputing** 2023  [[pdf](https://arxiv.org/pdf/2108.08976.pdf), [doi](https://doi.org/10.1016/j.neucom.2022.12.013), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]          
 
+
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
   Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[pdf](https://arxiv.org/pdf/2109.02889.pdf)].           
   In **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.emnlp-main.257.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangL0022.html?view=bibtex)]              
+
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
   Comment: Also related to our previous paper: Neural Network Surgery [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf)].      
   In **ICLR** 2022 [[pdf](https://openreview.net/pdf?id=Bn09TnDngN), [cite](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)]      
 
+
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     
   **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   
-  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)].    
+  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)]. 
   In **Neural Networks** 2021 [[pdf](https://arxiv.org/pdf/2109.02889.pdf), [doi](https://doi.org/10.1016/j.neunet.2021.08.022), [cite](https://dblp.uni-trier.de/rec/journals/nn/ZhangLRSLS21.html?view=bibtex)]    
+
   
 - **Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects**    
   **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun, Bin He  
   Comment: Besides injecting data patterns with minimal instance-wise side effects, also about NLP backdoors for both benign and malicious purposes.     
   In **NAACL** 2021 [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf), [cite](https://dblp.uni-trier.de/rec/conf/naacl/ZhangRSSH21.html?view=bibtex)]     
 
+
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li    
   Comment: The analysis of the robustness against parameter corruptions or perturbations.       
   In **AAAI** 2021 [[pdf](https://arxiv.org/pdf/2006.05620.pdf), [cite](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)]     
+
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
   Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[github](https://github.com/lancopku/pkuseg-python)].     
   Preprint [[pdf](https://arxiv.org/pdf/1906.11455.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
   
-- **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**     
-  Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**      
-  Comment: Releasing a Chinese dependency treebank dataset [[github](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)] of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
-  In **LREC** 2018 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis), [cite](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)]      
 
-- **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
+- **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**    
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
   In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://www.semanticscholar.org/paper/No-Stock-is-an-Island%3A-Learning-Internal-and-of-Li-Li/a89aab0fcbf06867c32e8444529dc6545b636964)]                          
+
   
 # Patents
 - **一种模型训练方法及装置**     
@@ -96,19 +100,21 @@ Zhiyuan Zhang has published **29 papers**, including **15 first-author papers**.
 
 # Awards
 - **Phd student period**
-  - Peking University President Scholarship (**Highest Ph.D. scholarship**), 2019, 2020, 2021
+  - **Peking University May Fourth Scholarship** (**北京大学五四奖学金**), 2023
+  - **Pacemaker to Merit Student** (**三好学生标兵**), 2023
+  - **Peking University President Scholarship** (**Highest Ph.D. scholarship**, **北京大学校长奖学金**), 2019, 2020, 2021
   - Financial Technology and Natural Language Processing 2022: **Best Paper Award**, 2022
   - Yang Fuqing & Wang Yangyuan Academician Scholarship, 2022
   - Outstanding Research Award in Peking University, 2022
+  - **Merit Student in Peking University** (**三好学生**), 2021
   - Huatai Securities Technology Scholarship, 2021
-  - Merit Student in Peking University, 2021
   - Academic Excellence Award in Peking University, 2020  
   
 - **Undergraduate period**
-  - **Outstanding Graduates** in Peking University, 2019 
-  - Merit Student in Peking University, 2016, 2017 
+  - **Outstanding Graduates in Peking University** (**北京大学优秀毕业生**), 2019 
+  - **Merit Student in Peking University** (**三好学生**), 2016, 2017 
   - Second Prize in Peking University ACM, 2016
-  - **National Scholarship**, 2016
+  - **National Scholarship** (**国家奖学金**), 2016
 
 # Internships
 - Research Intern at Tencent, **WeChat AI**, 2022 - 2024
@@ -116,19 +122,19 @@ Zhiyuan Zhang has published **29 papers**, including **15 first-author papers**.
 - Research Grant Support from **Mizuho Securities**, 2021 - 2024
 - Research Grant Support from **Huawei Noah’s Ark Lab**, 2020 - 2021
 
+# Services
+- **Area Chair** (**AC**) or **Action Editor** (**AE**) for ACL Rolling Review (ARR), NACCL, etc.
+- **Reviewer** or **Program Committee** (**PC**) for AAAI, ACL, TACL, ECML, NLPCC, etc.
+- **Teaching assistant** (**TA**) for "Introduction to Natural Language Processing", "Foundations of Computer Application"
+- **Contributor** for a paper list about robustness and security in deep learning on GitHub (**700+ stars** at GitHub: github.com/THUYimingLi/backdoor-learning-resources)   
+
 # Invited Talks
 - AI Time, 首场大模型专场, 四位讲者分享大模型研究畅聊ChatGPT: **Mitigating Backdoors in Large Language Models** (消除大模型中的后门), March 2023
 - Shanghai AI Lab: **A Study of Parameter Corruption of Neural Networks** (神经网络参数扰动的研究), Aug. 2022
 - Huawei - Peking University Academic Forum: **Limitation and Improvement of Federated Aggregation Algorithm on Natural Language Processing Tasks** (联邦聚合算法在自然语言处理任务上的局限性及改进), July 2022
 - Beijing Language & Culture University: **A Overview of Adversarial Attacks** (对抗攻击综述报告), Dec. 2021
 
-# Services
-- As reviewers of AAAI, ACL, TACL, ECML, NLPCC, etc.
-- Teaching assistant for "Introduction to Natural Language Processing", "Foundations of Computer Application"
-- Maintain a paper list about robustness and security in deep learning on GitHub as a contributor
-(**700+ stars** at GitHub: github.com/THUYimingLi/backdoor-learning-resources)   
-
-# Paper List      
+# Full Paper List      
 
 ### Deep Learning: Optimization, Robustness and Security
 

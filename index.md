@@ -119,11 +119,11 @@ Zhiyuan Zhang has a solid foundation in mathematical and programming.
   - **Second Prize** in Peking University ACM, 2016
     
 - **High school period awards**
-  - **First Prize** in Chinese Mathematical Olympiad (in Provinces) (**ranked** **26** in Zhejiang, 中国数学奥林匹克/全国高中数学联赛省级赛区一等奖).
-  - **First Prize** in Ruida Cup High School Mathematics Competition (**ranked** **2**, 睿达杯高中数学竞赛一等奖).
-  - **Bronze Medal** in Chinese Southeast Mathematical Olympiad (中国东南地区数学奥林匹克铜牌).
-  - **Second Prize** in Chinese Physics Olympiad (in Provinces) (中国物理奥林匹克/全国高中物理竞赛复赛省级赛区二等奖).
-  - **Second Prize** in National Olympiad in Informatics in Provinces (NOIP) (全国青少年信息学奥林匹克省级赛区二等奖).
+  - **First Prize** in Chinese Mathematical Olympiad (in Provinces) (**ranked** **26** in Zhejiang Province, **全国高中数学联赛浙江赛区一等奖**).
+  - **First Prize** in Ruida Cup High School Mathematics Competition (**ranked** **2**, **睿达杯高中数学竞赛一等奖**).
+  - **Bronze Medal** in Chinese Southeast Mathematical Olympiad (**中国东南地区数学奥林匹克铜牌**).
+  - **Second Prize** in Chinese Physics Olympiad (in Provinces) (**全国中学生物理竞赛浙江赛区二等奖**).
+  - **Second Prize** in National Olympiad in Informatics in Provinces (NOIP) (**全国青少年信息学奥林匹克联赛浙江赛区二等奖**).
     
 # Internships
 - Research Intern at Tencent, **WeChat AI**, 2022 - 2024

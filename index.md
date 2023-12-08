@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Biography
-**Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, **Peking University** (Beijing, China). He received the degree of Bachelor of Science in Computer Science from **Peking University** in **2019**. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
+**Zhiyuan Zhang (张之远)** is a **Ph.D. candidate**, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, **Peking University** (Beijing, China). He received the degree of **Bachelor** of Science in Computer Science from **Peking University** in **2019**. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
 
 # Research Interests
 - **Deep Learning**
@@ -15,11 +15,11 @@ layout: default
 # Education
 
 - **Sept. 2019 - Jul. 2024 (Expected)**  
-  PhD student, majoring in Computer Software and Theory, at School of Computer Science, Peking University.   
+  **PhD student**, majoring in Computer Software and Theory, at School of Computer Science, **Peking University**.   
   **Advisor**: [Xu Sun (孙栩)](https://xusun.org). **GPA**: 3.85/4.00. 
   
 - **Sept. 2015 - Jul. 2019**  
-  Bachelor of Science in Computer Science, at School of EECS, Peking University.   
+  **Bachelor** of Science in Computer Science, at School of EECS, **Peking University**.   
   **GPA**: 3.76/4.00, **Rank**: 6/204. 
  
 # Selected Publications
@@ -109,7 +109,7 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 Zhiyuan Zhang has a solid foundation in mathematical and programming.
 - **Courses**
   
-  Zhiyuan Zhang has scored **96/100 and above** in all the following courses:
+  He has scored **96/100 and above** in all the following courses:
   - Mathmetical Courses: Calculus (高等数学上下), Probability & Statistics (概率统计), Set Theory \& Graph Theory (集合论图论), Combinatorial Mathematics (组合数学), Number Theory (数论)
   - Physics Courses: Mechanics (力学), Electromagnetism (电磁学)
   - Programming Courses: Introduction to Computing (计算概率), Practice of Programming (程序设计实习), Data Structures \& Algorithms (数据结构与算法), Algorithms Analysis (算法分析)

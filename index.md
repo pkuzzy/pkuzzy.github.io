@@ -117,15 +117,15 @@ Zhiyuan Zhang has a solid foundation in mathematical and programming.
   - Programming Courses: Introduction to Computing (计算概率), Practice of Programming (程序设计实习), Data Structures \& Algorithms (数据结构与算法), Algorithms Analysis (算法分析)
   
 - **Undergraduate period awards**
-  - Ranked 105 of about 50k (about **0.21\%**) in Preliminary Round of Alibaba Global Mathematics Competition (Entered the finals of the competition), 2018
+  - Ranked 105 of about 50k (about **0.21%**) in Preliminary Round of Alibaba Global Mathematics Competition (Entered the finals of the competition), 2018
   - Second Prize in Peking University ACM, 2016
     
 - **High school period awards**
-  - **First Prize** in Chinese Mathematical Olympiad (in Provinces) (ranked **26** in Zhejiang).
-  - **First Prize** in Ruida Cup High School Mathematics Competition (ranked **2**).
-  - **Bronze Medal** in Chinese Southeast Mathematical Olympiad (中国东南地区数学奥林匹克).
-  - **Second Prize** in Chinese Physics Olympiad (in Provinces).
-  - **Second Prize** in National Olympiad in Informatics in Provinces (NOIP).
+  - **First Prize** in Chinese Mathematical Olympiad (in Provinces) (ranked **26** in Zhejiang, 中国数学奥林匹克省级赛区一等奖).
+  - **First Prize** in Ruida Cup High School Mathematics Competition (ranked **2**, 睿达杯高中数学竞赛一等奖).
+  - **Bronze Medal** in Chinese Southeast Mathematical Olympiad (中国东南地区数学奥林匹克铜牌).
+  - **Second Prize** in Chinese Physics Olympiad (in Provinces) (中国物理奥林匹克省级赛区二等奖).
+  - **Second Prize** in National Olympiad in Informatics in Provinces (NOIP) (全国信息学奥林匹克省级赛区二等奖).
     
 # Internships
 - Research Intern at Tencent, **WeChat AI**, 2022 - 2024

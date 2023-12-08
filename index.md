@@ -16,7 +16,7 @@ layout: default
 
 - **Sept. 2019 - Jul. 2024 (Expected)**  
   PhD student, majoring in Computer Software and Theory, at School of Computer Science, Peking University.   
-  **Advisor**: [Xu Sun (孙栩)](https://xusun.org). **GPA**: 3.85/4.00. 
+  **Advisor**: [**Xu Sun (孙栩)**](https://xusun.org). **GPA**: 3.85/4.00. 
   
 - **Sept. 2015 - Jul. 2019**  
   Bachelor of Science in Computer Science, at School of EECS, Peking University.   
@@ -26,63 +26,63 @@ layout: default
 Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The papers have been **cited 800+ times** in Google Scholar up to Dec. 2023. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
 
 
-[[**Google Scholar**](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [**OpenReview**](https://openreview.net/profile?id=~Zhiyuan_Zhang1), [**DBLP**](https://dblp.uni-trier.de/pid/72/1760-1.html)], [**Semantic Scholar**](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
+[[**Google Scholar**](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ)], [[**OpenReview**](https://openreview.net/profile?id=~Zhiyuan_Zhang1)], [[**DBLP**](https://dblp.uni-trier.de/pid/72/1760-1.html)], [[**Semantic Scholar**](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
 
 
 - **Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense**    
   **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun     
-  In **NeurIPS** 2023 [[pdf](https://openreview.net/pdf?id=txPdKZrrZF)]    
+  In **NeurIPS** 2023 [[**pdf**](https://openreview.net/pdf?id=txPdKZrrZF)]    
 
 
 - **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**   
   Ruibo Chen<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Yi Liu, Ruihan Bao, Keiko Harimoto, Xu Sun   
-  In **MLF** 2023 (ML in Finance) [[google_scholar](https://scholar.google.com/scholar?q=Incorporating+Pre-trained+Model+Prompting+in+Multimodal+Stock+Volume+Movement+Prediction&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]    
+  In **MLF** 2023 (ML in Finance) [[**Google Scholar**](https://scholar.google.com/scholar?q=Incorporating+Pre-trained+Model+Prompting+in+Multimodal+Stock+Volume+Movement+Prediction&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]    
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
-  In **Neurocomputing** 2023  [[pdf](https://arxiv.org/pdf/2108.08976.pdf), [doi](https://doi.org/10.1016/j.neucom.2022.12.013), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]          
+  In **Neurocomputing** 2023  [[**pdf**](https://arxiv.org/pdf/2108.08976.pdf), [**doi**](https://doi.org/10.1016/j.neucom.2022.12.013), [**cite**](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]          
 
 
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
-  Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[pdf](https://arxiv.org/pdf/2109.02889.pdf)].           
-  In **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.emnlp-main.257.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangL0022.html?view=bibtex)]              
+  Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[**pdf**](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[**pdf**](https://arxiv.org/pdf/2109.02889.pdf)].           
+  In **EMNLP** 2022 [[**pdf**](https://aclanthology.org/2022.emnlp-main.257.pdf), [**cite**](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangL0022.html?view=bibtex)]              
 
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
-  Comment: Also related to our previous paper: Neural Network Surgery [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf)].      
-  In **ICLR** 2022 [[pdf](https://openreview.net/pdf?id=Bn09TnDngN), [cite](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)]      
+  Comment: Also related to our previous paper: Neural Network Surgery [[**pdf**](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf)].      
+  In **ICLR** 2022 [[**pdf**](https://openreview.net/pdf?id=Bn09TnDngN), [**cite**](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)]      
 
 
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     
   **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   
-  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)]. 
-  In **Neural Networks** 2021 [[pdf](https://arxiv.org/pdf/2109.02889.pdf), [doi](https://doi.org/10.1016/j.neunet.2021.08.022), [cite](https://dblp.uni-trier.de/rec/journals/nn/ZhangLRSLS21.html?view=bibtex)]    
+  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[**pdf**](https://arxiv.org/pdf/2006.05620.pdf)]. 
+  In **Neural Networks** 2021 [[**pdf**](https://arxiv.org/pdf/2109.02889.pdf), [**doi**](https://doi.org/10.1016/j.neunet.2021.08.022), [**cite**](https://dblp.uni-trier.de/rec/journals/nn/ZhangLRSLS21.html?view=bibtex)]    
 
   
 - **Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects**    
   **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun, Bin He  
   Comment: Besides injecting data patterns with minimal instance-wise side effects, also about NLP backdoors for both benign and malicious purposes.     
-  In **NAACL** 2021 [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf), [cite](https://dblp.uni-trier.de/rec/conf/naacl/ZhangRSSH21.html?view=bibtex)]     
+  In **NAACL** 2021 [[**pdf**](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf), [**cite**](https://dblp.uni-trier.de/rec/conf/naacl/ZhangRSSH21.html?view=bibtex)]     
 
 
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li    
   Comment: The analysis of the robustness against parameter corruptions or perturbations.       
-  In **AAAI** 2021 [[pdf](https://arxiv.org/pdf/2006.05620.pdf), [cite](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)]     
+  In **AAAI** 2021 [[**pdf**](https://arxiv.org/pdf/2006.05620.pdf), [**cite**](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)]     
 
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
-  Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[github](https://github.com/lancopku/pkuseg-python)].     
-  Preprint [[pdf](https://arxiv.org/pdf/1906.11455.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
+  Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[**GitHub**](https://github.com/lancopku/pkuseg-python)].     
+  Preprint [[**pdf**](https://arxiv.org/pdf/1906.11455.pdf), [**code**](https://github.com/lancopku/pkuseg-python), [cite](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
   
 
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**    
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://www.semanticscholar.org/paper/No-Stock-is-an-Island%3A-Learning-Internal-and-of-Li-Li/a89aab0fcbf06867c32e8444529dc6545b636964)]                          
+  In **FinNLP** 2022 (Financial Technology and NLP) [[**pdf**](https://aclanthology.org/2022.finnlp-1.20.pdf), [**code**](https://github.com/lancopku/pkuseg-python), [**cite**](https://www.semanticscholar.org/paper/No-Stock-is-an-Island%3A-Learning-Internal-and-of-Li-Li/a89aab0fcbf06867c32e8444529dc6545b636964)]                          
 
   
 # Patents
@@ -141,103 +141,103 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 
 - **Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense**    
   **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun     
-  In **NeurIPS** 2023 [[pdf](https://openreview.net/pdf?id=txPdKZrrZF)]    
+  In **NeurIPS** 2023 [[**pdf**](https://openreview.net/pdf?id=txPdKZrrZF)]    
 
 
 - **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
   **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun                 
-  In Findings of **ACL** 2023 [[pdf](https://aclanthology.org/2023.findings-acl.157/), [cite](https://dblp.uni-trier.de/rec/conf/acl/ZhangCZMZ023.html?view=bibtex)]                        
+  In Findings of **ACL** 2023 [[**pdf**](https://aclanthology.org/2023.findings-acl.157/), [**cite**](https://dblp.uni-trier.de/rec/conf/acl/ZhangCZMZ023.html?view=bibtex)]                        
   
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
-  Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[pdf](https://arxiv.org/pdf/2109.02889.pdf)].           
-  In **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.emnlp-main.257.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangL0022.html?view=bibtex)]          
+  Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[**pdf**](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[**pdf**](https://arxiv.org/pdf/2109.02889.pdf)].           
+  In **EMNLP** 2022 [[**pdf**](https://aclanthology.org/2022.emnlp-main.257.pdf), [**cite**](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangL0022.html?view=bibtex)]          
 
 - **Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation**    
   **Zhiyuan Zhang**, Qi Su and Xu Sun        
-  In Findings of **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]          
+  In Findings of **EMNLP** 2022 [[**pdf**](https://aclanthology.org/2022.findings-emnlp.25.pdf), [**cite**](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]          
 
 - **Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Xingjun Ma, Chenguang Wang and Xu Sun       
-  In Findings of **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.26.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              
+  In Findings of **EMNLP** 2022 [[**pdf**](https://aclanthology.org/2022.findings-emnlp.26.pdf), [**cite**](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
-  Comment: Also related to our previous paper: Neural Network Surgery [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf)].      
-  In **ICLR** 2022 [[pdf](https://openreview.net/pdf?id=Bn09TnDngN), [cite](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)]      
+  Comment: Also related to our previous paper: Neural Network Surgery [[**pdf**](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf)].      
+  In **ICLR** 2022 [[pdf](https://openreview.net/pdf?id=Bn09TnDngN), [**cite**](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)]      
 
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     
   **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   
-  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)].    
-  In **Neural Networks** 2021 [[pdf](https://arxiv.org/pdf/2109.02889.pdf), [doi](https://doi.org/10.1016/j.neunet.2021.08.022), [cite](https://dblp.uni-trier.de/rec/journals/nn/ZhangLRSLS21.html?view=bibtex)]    
+  Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[**pdf**](https://arxiv.org/pdf/2006.05620.pdf)].    
+  In **Neural Networks** 2021 [[**pdf**](https://arxiv.org/pdf/2109.02889.pdf), [**doi**](https://doi.org/10.1016/j.neunet.2021.08.022), [**cite**](https://dblp.uni-trier.de/rec/journals/nn/ZhangLRSLS21.html?view=bibtex)]    
   
 - **Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects**    
   **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun, Bin He  
   Comment: Besides injecting data patterns with minimal instance-wise side effects, also about NLP backdoors for both benign and malicious purposes.     
-  In **NAACL** 2021 [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf), [cite](https://dblp.uni-trier.de/rec/conf/naacl/ZhangRSSH21.html?view=bibtex)]     
+  In **NAACL** 2021 [[**pdf**](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf), [**cite**](https://dblp.uni-trier.de/rec/conf/naacl/ZhangRSSH21.html?view=bibtex)]     
 
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li    
   Comment: The analysis of the robustness against parameter corruption or perturbation.       
-  In **AAAI** 2021 [[pdf](https://arxiv.org/pdf/2006.05620.pdf), [cite](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)]     
+  In **AAAI** 2021 [[**pdf**](https://arxiv.org/pdf/2006.05620.pdf), [**cite**](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)]     
 
 - **Memorized Sparse Backpropagation**    
   **Zhiyuan Zhang**, Pengcheng Yang, Xuancheng Ren, Qi Su, Xu Sun    
-  In **Neurocomputing** 2020 [[pdf](https://arxiv.org/pdf/1905.10194.pdf), [doi](https://doi.org/10.1016/j.neucom.2020.08.055), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangYRSS20.html?view=bibtex)]  
+  In **Neurocomputing** 2020 [[**pdf**](https://arxiv.org/pdf/1905.10194.pdf), [**doi**](https://doi.org/10.1016/j.neucom.2020.08.055), [**cite**](https://dblp.uni-trier.de/rec/journals/ijon/ZhangYRSS20.html?view=bibtex)]  
 
 - **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**       
   Sishuo Chen, Wenkai Yang, **Zhiyuan Zhang**, Xiaohan Bi and Xu Sun  
-  In Findings of **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.47.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ChenYZBS22.html?view=bibtex)]     
+  In Findings of **EMNLP** 2022 [[**pdf**](https://aclanthology.org/2022.findings-emnlp.47.pdf), [**cite**](https://dblp.uni-trier.de/rec/conf/emnlp/ChenYZBS22.html?view=bibtex)]     
 
 - **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**    
   Wenkai Yang, Lei Li, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He  
-  In **NAACL** 2021 [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.165.pdf), [code](https://github.com/lancopku/Embedding-Poisoning), [cite](https://dblp.uni-trier.de/rec/conf/naacl/YangLZRSH21.html?view=bibtex)]     
+  In **NAACL** 2021 [[**pdf**](https://www.aclweb.org/anthology/2021.naacl-main.165.pdf), [**code**](https://github.com/lancopku/Embedding-Poisoning), [**cite**](https://dblp.uni-trier.de/rec/conf/naacl/YangLZRSH21.html?view=bibtex)]     
    
 - **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning**    
   Runxin Xu<sup>\#</sup>, Fuli Luo<sup>\#</sup>, **Zhiyuan Zhang**, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang          
   Comment: Besides the effective and generalizable fine-tuning approach, also related to the theoretical analysis of the generalization ability and the parameter robustness.      
-  In **EMNLP** 2021 [[pdf](https://aclanthology.org/2021.emnlp-main.749.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/XuLZTCHH21.html?view=bibtex)]   
+  In **EMNLP** 2021 [[**pdf**](https://aclanthology.org/2021.emnlp-main.749.pdf), [**cite**](https://dblp.uni-trier.de/rec/conf/emnlp/XuLZTCHH21.html?view=bibtex)]   
   
 - **Understanding and Improving Layer Normalization**    
   Jingjing Xu, Xu Sun, **Zhiyuan Zhang**, Guangxiang Zhao, Junyang Lin    
-  In **NeurIPS** 2019 [[pdf](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf), [code](https://github.com/lancopku/AdaNorm), [supplemental](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization-supplemental.zip), [cite](https://dblp.uni-trier.de/rec/conf/nips/Xu0ZZL19.html?view=bibtex)]  
+  In **NeurIPS** 2019 [[**pdf**](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf), [**code**](https://github.com/lancopku/AdaNorm), [**supplemental**](https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization-supplemental.zip), [**cite**](https://dblp.uni-trier.de/rec/conf/nips/Xu0ZZL19.html?view=bibtex)]  
   
 - **Rethinking Skip Connection with Layer Normalization**   
   Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun, Yuexian Zou   
-  In **COLING** 2020 [[pdf](https://aclanthology.org/2020.coling-main.320.pdf),  [cite](https://dblp.uni-trier.de/rec/conf/coling/LiuRZSZ20.html?view=bibtex)]
+  In **COLING** 2020 [[**pdf**](https://aclanthology.org/2020.coling-main.320.pdf),  [**cite**](https://dblp.uni-trier.de/rec/conf/coling/LiuRZSZ20.html?view=bibtex)]
   
 ### Natural Language Processing Applications
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
-  Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[github](https://github.com/lancopku/pkuseg-python)].     
-  Preprint [[pdf](https://arxiv.org/pdf/1906.11455.pdf), [cite](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
+  Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[**GitHub**](https://github.com/lancopku/pkuseg-python)].     
+  Preprint [[**pdf**](https://arxiv.org/pdf/1906.11455.pdf), [**cite**](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
   
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He      
-  Comment: The full version: preprint [[OpenReview](https://openreview.net/forum?id=HJlv-Fz-pS)].    
-  In Findings of **EMNLP** 2020 (short) [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)]         
+  Comment: The full version: preprint [[**OpenReview**](https://openreview.net/forum?id=HJlv-Fz-pS)].    
+  In Findings of **EMNLP** 2020 (short) [[**pdf**](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf), [**cite**](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)]         
   
 - **Automatic Translating between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora**    
   **Zhiyuan Zhang**, Wei Li, Qi Su    
-  In **NLPCC** 2019 (short) [[pdf](https://arxiv.org/pdf/1803.01557.pdf), [doi](https://doi.org/10.1007/978-3-030-32236-6_13), [cite](https://dblp.uni-trier.de/rec/conf/nlpcc/Zhang0S19.html?view=bibtex)]      
+  In **NLPCC** 2019 (short) [[**pdf**](https://arxiv.org/pdf/1803.01557.pdf), [**doi**](https://doi.org/10.1007/978-3-030-32236-6_13), [**cite**](https://dblp.uni-trier.de/rec/conf/nlpcc/Zhang0S19.html?view=bibtex)]      
   
 - **Primal Meaning Recommendation for Chinese Expressions via Descriptions in On-line Encyclopedia**   
   **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun    
-  Preprint, accepted by a special issue of **Natural Language Engineering** [[pdf](https://arxiv.org/pdf/1808.04660.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)]     
+  Preprint, accepted by a special issue of **Natural Language Engineering** [[**pdf**](https://arxiv.org/pdf/1808.04660.pdf), [**cite**](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)]     
   
 - **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**     
   Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**      
-  Comment: Releasing a Chinese dependency treebank dataset [[github](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)] of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
-  In **LREC** 2018 [[pdf](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [data](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis), [cite](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)]      
+  Comment: Releasing a Chinese dependency treebank dataset [[**GitHub**](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)] of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
+  In **LREC** 2018 [[**pdf**](http://www.lrec-conf.org/proceedings/lrec2018/pdf/297.pdf), [**data**](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis), [**cite**](https://dblp.uni-trier.de/rec/conf/lrec/RenSWWZZ18.html?view=bibtex)]      
 
 - **Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection**     
   Guangxiang Zhao, Junyang Lin, **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun        
-  Preprint [[pdf](https://arxiv.org/pdf/1912.11637.pdf), [code](https://github.com/lancopku/Explicit-Sparse-Transformer), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1912-11637.html?view=bibtex)]      
+  Preprint [[**pdf**](https://arxiv.org/pdf/1912.11637.pdf), [**code**](https://github.com/lancopku/Explicit-Sparse-Transformer), [**cite**](https://dblp.uni-trier.de/rec/journals/corr/abs-1912-11637.html?view=bibtex)]      
   
 - **MUSE: Parallel Multi-Scale Attention for Sequence to Sequence Learning**     
   Guangxiang Zhao, Xu Sun, Jingjing Xu, **Zhiyuan Zhang**, Liangchen Luo          
-  Preprint [[pdf](https://arxiv.org/pdf/1911.09483.pdf), [code](https://github.com/lancopku/Prime), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1911-09483.html?view=bibtex)]       
+  Preprint [[**pdf**](https://arxiv.org/pdf/1911.09483.pdf), [**code**](https://github.com/lancopku/Prime), [**cite**](https://dblp.uni-trier.de/rec/journals/corr/abs-1911-09483.html?view=bibtex)]       
   
   
 ### Quantitative Finance and Time Series Analysis
@@ -245,28 +245,28 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [google_scholar](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=No+Stock+is+an+Island%3A+Learning+Internal+and+Relational+Attributes+of+Stocks+with+Contrastive+Learning&btnG=)]           
+  In **FinNLP** 2022 (Financial Technology and NLP) [[**pdf**](https://aclanthology.org/2022.finnlp-1.20.pdf), [**Google Scholar**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=No+Stock+is+an+Island%3A+Learning+Internal+and+Relational+Attributes+of+Stocks+with+Contrastive+Learning&btnG=)]           
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
-  In **Neurocomputing** 2022  [[pdf](https://arxiv.org/pdf/2108.08976.pdf), [doi](https://doi.org/10.1016/j.neucom.2022.12.013), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]         
+  In **Neurocomputing** 2022  [[**pdf**](https://arxiv.org/pdf/2108.08976.pdf), [**doi**](https://doi.org/10.1016/j.neucom.2022.12.013), [**cite**](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]         
 
 - **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**   
   Ruibo Chen<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Yi Liu, Ruihan Bao, Keiko Harimoto, Xu Sun   
-  In **MLF** 2023 (ML in Finance) [[google_scholar](https://scholar.google.com/scholar?q=Incorporating+Pre-trained+Model+Prompting+in+Multimodal+Stock+Volume+Movement+Prediction&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]    
+  In **MLF** 2023 (ML in Finance) [[**Google Scholar**](https://scholar.google.com/scholar?q=Incorporating+Pre-trained+Model+Prompting+in+Multimodal+Stock+Volume+Movement+Prediction&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]    
   
 - **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**    
   Lei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **ECML-PKDD** 2022 [[pdf](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_410.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2208-07232.html?view=bibtex)]     
+  In **ECML-PKDD** 2022 [[**pdf**](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_410.pdf), [**cite**](https://dblp.uni-trier.de/rec/journals/corr/abs-2208-07232.html?view=bibtex)]     
 
 - **Stock Trading Volume Prediction with Dual-Process Meta-Learning**   
   Ruibo Chen, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun     
-  In **ECML-PKDD** 2022 [[pdf](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_662.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2211-01762.html?view=bibtex)]    
+  In **ECML-PKDD** 2022 [[**pdf**](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_662.pdf), [**cite**](https://dblp.uni-trier.de/rec/journals/corr/abs-2211-01762.html?view=bibtex)]    
   
 - **Incremental Stock Volume Prediction with Gradient Distillation and Diversified Memory Selection**   
   Shicheng Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **AI4TS** 2022 (AI for Time Series Analysis) [[google_scholar](https://scholar.google.com/scholar?q=Incremental+Stock+Volume+Prediction+with+Gradient+Distillation+and+Diversified+Memory+Selection&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]     
+  In **AI4TS** 2022 (AI for Time Series Analysis) [[**Google Scholar**](https://scholar.google.com/scholar?q=Incremental+Stock+Volume+Prediction+with+Gradient+Distillation+and+Diversified+Memory+Selection&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]     
   
  - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**   
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **RSEML** 2021 (Robust, Secure, and Efficient ML) [[google_scholar](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Learning+Robust+Representation+for+Clustering+through+Locality+Preserving+Variational+Discriminative+Network&btnG=)]      
+  In **RSEML** 2021 (Robust, Secure, and Efficient ML) [[**Google Scholar**](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Learning+Robust+Representation+for+Clustering+through+Locality+Preserving+Variational+Discriminative+Network&btnG=)]      

@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Biography
-**Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, Peking University (Beijing, China). He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
+**Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, **Peking University** (Beijing, China). He received the degree of Bachelor of Science in Computer Science from **Peking University** in **2019**. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
 
 # Research Interests
 - **Deep Learning**
@@ -25,9 +25,7 @@ layout: default
 # Selected Publications
 Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The papers have been **cited 800+ times** in Google Scholar up to Dec. 2023. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
 
-
 **Links**: [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ)], [[OpenReview](https://openreview.net/profile?id=~Zhiyuan_Zhang1)], [[DBLP](https://dblp.uni-trier.de/pid/72/1760-1.html)], [[Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
-
 
 - **Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense**    
   **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun     
@@ -111,18 +109,18 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 Zhiyuan Zhang has a solid foundation in mathematical and programming.
 - **Courses**
 
-  He scored all **96/100 and above** in the following courses:
+  Zhiyuan Zhang has scored **96/100 and above** in all the following courses:
   - Mathmetical Courses: Calculus (高等数学上下), Probability & Statistics (概率统计), Set Theory \& Graph Theory (集合论图论), Combinatorial Mathematics (组合数学), Number Theory (数论)
   - Physics Courses: Mechanics (力学), Electromagnetism (电磁学)
   - Programming Courses: Introduction to Computing (计算概率), Practice of Programming (程序设计实习), Data Structures \& Algorithms (数据结构与算法), Algorithms Analysis (算法分析)
   
 - **Undergraduate period awards**
-  - Ranked 105 of about 50k (about **0.21%**) in Preliminary Round of Alibaba Global Mathematics Competition (Entered the finals of the competition), 2018
-  - Second Prize in Peking University ACM, 2016
+  - **Ranked** **105** of about 50k (about **0.21%**) in Preliminary Round of Alibaba Global Mathematics Competition (and **entered the finals** of the competition), 2018
+  - **Second Prize** in Peking University ACM, 2016
     
 - **High school period awards**
-  - **First Prize** in Chinese Mathematical Olympiad (in Provinces) (ranked **26** in Zhejiang, 中国数学奥林匹克省级赛区一等奖).
-  - **First Prize** in Ruida Cup High School Mathematics Competition (ranked **2**, 睿达杯高中数学竞赛一等奖).
+  - **First Prize** in Chinese Mathematical Olympiad (in Provinces) (**ranked** **26** in Zhejiang, 中国数学奥林匹克省级赛区一等奖).
+  - **First Prize** in Ruida Cup High School Mathematics Competition (**ranked** **2**, 睿达杯高中数学竞赛一等奖).
   - **Bronze Medal** in Chinese Southeast Mathematical Olympiad (中国东南地区数学奥林匹克铜牌).
   - **Second Prize** in Chinese Physics Olympiad (in Provinces) (中国物理奥林匹克省级赛区二等奖).
   - **Second Prize** in National Olympiad in Informatics in Provinces (NOIP) (全国信息学奥林匹克省级赛区二等奖).

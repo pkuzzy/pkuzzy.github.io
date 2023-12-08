@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Biography
-**Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, Peking University, Beijing 100871, China. He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
+**Zhiyuan Zhang (张之远)** is a Ph.D. candidate, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, Peking University (Beijing, China). He received the degree of Bachelor of Science in Computer Science from Peking University in 2019. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
 
 # Research Interests
 - **Deep Learning**
@@ -26,59 +26,51 @@ layout: default
 Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The papers have been **cited 800+ times** in Google Scholar up to Dec. 2023. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
 
 
-[[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ)], [[OpenReview](https://openreview.net/profile?id=~Zhiyuan_Zhang1)], [[DBLP](https://dblp.uni-trier.de/pid/72/1760-1.html)], [[Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
+**Homepages on Scholars**: [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ)], [[OpenReview](https://openreview.net/profile?id=~Zhiyuan_Zhang1)], [[DBLP](https://dblp.uni-trier.de/pid/72/1760-1.html)], [[Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
 
 
 - **Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense**    
   **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun     
   In **NeurIPS** 2023 [[pdf](https://openreview.net/pdf?id=txPdKZrrZF)]    
 
-
 - **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**   
   Ruibo Chen<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Yi Liu, Ruihan Bao, Keiko Harimoto, Xu Sun   
-  In **MLF** 2023 (ML in Finance) [[Google Scholar](https://scholar.google.com/scholar?q=Incorporating+Pre-trained+Model+Prompting+in+Multimodal+Stock+Volume+Movement+Prediction&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]    
+  In **MLF** 2023 (ML in Finance) [[Google Scholar](https://scholar.google.com/scholar?q=Incorporating+Pre-trained+Model+Prompting+in+Multimodal+Stock+Volume+Movement+Prediction&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
   In **Neurocomputing** 2023  [[pdf](https://arxiv.org/pdf/2108.08976.pdf), [doi](https://doi.org/10.1016/j.neucom.2022.12.013), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangLBHWS23.html?view=bibtex)]          
-
 
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
   Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[pdf](https://arxiv.org/pdf/2109.02889.pdf)].           
   In **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.emnlp-main.257.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangL0022.html?view=bibtex)]              
 
-
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
   Comment: Also related to our previous paper: Neural Network Surgery [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf)].      
   In **ICLR** 2022 [[pdf](https://openreview.net/pdf?id=Bn09TnDngN), [cite](https://dblp.uni-trier.de/rec/conf/iclr/ZhangLWS022.html?view=bibtex)]      
-
 
 - **Adversarial Parameter Defense by Multi-step Risk Minimization**     
   **Zhiyuan Zhang**, Ruixuan Luo, Xuancheng Ren, Qi Su, Liangyou Li, Xu Sun   
   Comment: The analysis of the generalization ability and the parameter robustness. A substantial journal extension of our previous conference paper: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)]. 
   In **Neural Networks** 2021 [[pdf](https://arxiv.org/pdf/2109.02889.pdf), [doi](https://doi.org/10.1016/j.neunet.2021.08.022), [cite](https://dblp.uni-trier.de/rec/journals/nn/ZhangLRSLS21.html?view=bibtex)]    
 
-  
 - **Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects**    
   **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun, Bin He  
   Comment: Besides injecting data patterns with minimal instance-wise side effects, also about NLP backdoors for both benign and malicious purposes.     
   In **NAACL** 2021 [[pdf](https://www.aclweb.org/anthology/2021.naacl-main.430.pdf), [cite](https://dblp.uni-trier.de/rec/conf/naacl/ZhangRSSH21.html?view=bibtex)]     
-
 
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li    
   Comment: The analysis of the robustness against parameter corruptions or perturbations.       
   In **AAAI** 2021 [[pdf](https://arxiv.org/pdf/2006.05620.pdf), [cite](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)]     
 
-
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
   Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[GitHub](https://github.com/lancopku/pkuseg-python)].     
   Preprint [[pdf](https://arxiv.org/pdf/1906.11455.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
   
-
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**    
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
@@ -113,9 +105,27 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 - **Undergraduate period**
   - **Outstanding Graduates in Peking University** (**北京大学优秀毕业生**), 2019 
   - **Merit Student in Peking University** (**三好学生**), 2016, 2017 
-  - Second Prize in Peking University ACM, 2016
   - **National Scholarship** (**国家奖学金**), 2016
 
+# Courses and Math \& Programming skills
+Zhiyuan Zhang has a solid foundation in mathematical and programming.
+- **Courses**
+He scored all **96/100 and above** in the following courses:
+- Mathmetical Courses: Calculus (高等数学上下), Probability \& Statistics (概率统计), Set Theory \& Graph Theory (集合论图论), Combinatorial Mathematics (组合数学), Number Theory (数论)
+- Physics Courses: Mechanics (力学), Electromagnetism (电磁学)
+- Programming Courses: Introduction to Computing (计算概率), Practice of Programming (程序设计实习), Data Structures \& Algorithms (数据结构与算法), Algorithms Analysis (算法分析)
+  
+- **Undergraduate period awards**
+- Ranked 105 of about 50k (about 0.21\%) in Preliminary Round of Alibaba Global Mathematics Competition (Entered the finals of the competition), 2018
+- Second Prize in Peking University ACM, 2016
+    
+- **High school period awards**
+  - **First Prize** in Chinese Mathematical Olympiad (in Provinces) (ranked **26** in Zhejiang).
+  - **First Prize** in Ruida Cup High School Mathematics Competition (ranked **2**).
+  - **Bronze Medal** in Chinese Southeast Mathematical Olympiad (中国东南地区数学奥林匹克).
+  - **Second Prize** in Chinese Physics Olympiad (in Provinces).
+  - **Second Prize** in National Olympiad in Informatics in Provinces (NOIP).
+    
 # Internships
 - Research Intern at Tencent, **WeChat AI**, 2022 - 2024
 - Research Intern at **Ant Group**, 2021

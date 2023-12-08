@@ -23,11 +23,19 @@ layout: default
   GPA: 3.76/4.00, Rank: 6/204. 
  
 # Selected Publications
-Zhiyuan Zhang has published **28 papers**, including **14 first-author papers**. The papers have been **cited 750+ times** in Google Scholar up to Sept 2023. Followings are **selected** publications. (<sup>\#</sup>: Equal Contribution). [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
+Zhiyuan Zhang has published **29 papers**, including **15 first-author papers**. The papers have been **cited 800+ times** in Google Scholar up to Dec. 2023. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
 
-- **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
-  **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun                 
-  In Findings of **ACL** 2023 [[pdf](https://aclanthology.org/2023.findings-acl.157/), [cite](https://dblp.uni-trier.de/rec/conf/acl/ZhangCZMZ023.html?view=bibtex)]                     
+[[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ), [OpenReview](https://openreview.net/profile?id=~Zhiyuan_Zhang1)] [DBLP](https://dblp.uni-trier.de/pid/72/1760-1.html)], [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
+
+
+- **Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense**    
+  **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun     
+  In **NeurIPS** 2023 [[pdf](https://openreview.net/pdf?id=txPdKZrrZF)]    
+
+
+- **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**   
+  Ruibo Chen<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Yi Liu, Ruihan Bao, Keiko Harimoto, Xu Sun   
+  In **MLF** 2023 (ML in Finance) [[google_scholar](https://scholar.google.com/scholar?q=Incorporating+Pre-trained+Model+Prompting+in+Multimodal+Stock+Volume+Movement+Prediction&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]    
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
@@ -36,15 +44,7 @@ Zhiyuan Zhang has published **28 papers**, including **14 first-author papers**.
 - **GA-SAM: Gradient-Strength based Adaptive Sharpness-Aware Minimization for Improved Generalization**    
   **Zhiyuan Zhang**, Ruixuan Luo, Qi Su and Xu Sun      
   Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[pdf](https://arxiv.org/pdf/2109.02889.pdf)].           
-  In **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.emnlp-main.257.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangL0022.html?view=bibtex)]         
-                
-- **Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation**    
-  **Zhiyuan Zhang**, Qi Su and Xu Sun        
-  In Findings of **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/Zhang0022a.html?view=bibtex)]           
-       
-- **Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models**  
-  **Zhiyuan Zhang**, Lingjuan Lyu, Xingjun Ma, Chenguang Wang and Xu Sun       
-  In Findings of **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.findings-emnlp.26.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLM0022.html?view=bibtex)]              
+  In **EMNLP** 2022 [[pdf](https://aclanthology.org/2022.emnlp-main.257.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangL0022.html?view=bibtex)]              
 
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
@@ -65,10 +65,6 @@ Zhiyuan Zhang has published **28 papers**, including **14 first-author papers**.
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li    
   Comment: The analysis of the robustness against parameter corruptions or perturbations.       
   In **AAAI** 2021 [[pdf](https://arxiv.org/pdf/2006.05620.pdf), [cite](https://dblp.uni-trier.de/rec/conf/aaai/0001ZRLL21.html?view=bibtex)]     
-
-- **Memorized Sparse Backpropagation**    
-  **Zhiyuan Zhang**, Pengcheng Yang, Xuancheng Ren, Qi Su, Xu Sun    
-  In **Neurocomputing** 2020 [[pdf](https://arxiv.org/pdf/1905.10194.pdf), [doi](https://doi.org/10.1016/j.neucom.2020.08.055), [cite](https://dblp.uni-trier.de/rec/journals/ijon/ZhangYRSS20.html?view=bibtex)]  
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
@@ -135,6 +131,12 @@ Zhiyuan Zhang has published **28 papers**, including **14 first-author papers**.
 # Paper List      
 
 ### Deep Learning: Optimization, Robustness and Security
+
+
+- **Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense**    
+  **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun     
+  In **NeurIPS** 2023 [[pdf](https://openreview.net/pdf?id=txPdKZrrZF)]    
+
 
 - **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
   **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun                 
@@ -207,7 +209,7 @@ Zhiyuan Zhang has published **28 papers**, including **14 first-author papers**.
   
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He      
-  Comment: The full version: preprint [[openreview](https://openreview.net/forum?id=HJlv-Fz-pS)].    
+  Comment: The full version: preprint [[OpenReview](https://openreview.net/forum?id=HJlv-Fz-pS)].    
   In Findings of **EMNLP** 2020 (short) [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.25.pdf), [cite](https://dblp.uni-trier.de/rec/conf/emnlp/ZhangLZ00H20.html?view=bibtex)]         
   
 - **Automatic Translating between Ancient Chinese and Contemporary Chinese with Limited Aligned Corpora**    

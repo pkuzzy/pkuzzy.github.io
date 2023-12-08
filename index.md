@@ -5,14 +5,14 @@ layout: default
 # Biography
 **Zhiyuan Zhang (张之远)** is a **Ph.D. candidate**, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, **Peking University** (Beijing, China). He received the degree of **Bachelor** of Science in Computer Science from **Peking University** in **2019**. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
 
-# Research Interests
+## Research Interests
 - **Deep Learning**
 - **Robustness and Security of Deep Neural Networks**
 - **Natural Language Processing**
 - **Quantitative Finance**
 
 
-# Education
+## Education
 
 - **Sept. 2019 - Jul. 2024 (Expected)**  
   **PhD student**, majoring in Computer Software and Theory, at School of Computer Science, **Peking University**.   
@@ -22,7 +22,7 @@ layout: default
   **Bachelor** of Science in Computer Science, at School of EECS, **Peking University**.   
   **GPA**: 3.76/4.00, **Rank**: **6**/204. 
  
-# Selected Publications
+## Selected Publications
 Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The papers have been **cited 800+ times** in Google Scholar up to Dec. 2023. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
 
 **Links**: [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ)], [[OpenReview](https://openreview.net/profile?id=~Zhiyuan_Zhang1)], [[DBLP](https://dblp.uni-trier.de/pid/72/1760-1.html)], [[Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
@@ -75,7 +75,7 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
   In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://www.semanticscholar.org/paper/No-Stock-is-an-Island%3A-Learning-Internal-and-of-Li-Li/a89aab0fcbf06867c32e8444529dc6545b636964)]                          
 
   
-# Patents
+## Patents
 - **一种模型训练方法及装置**     
   China Patent, No.: 202110221446.7, 2022   
   **Zhiyuan Zhang**, Xu Sun, Ruixuan Luo, Bin He (Huawei)    
@@ -88,8 +88,8 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
   China Patent, No.: 202110475677.0, 2021        
   **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He, Li Qian (Huawei)     
 
-# Awards
-## Phd Student Period
+## Awards
+### Phd Student Period
 - **Peking University May Fourth Scholarship** (**北京大学五四奖学金**), 2023
 - **Pacemaker to Merit Student** (**三好学生标兵**), 2023
 - **Peking University President Scholarship** (**Highest Ph.D. scholarship**, **北京大学校长奖学金**), 2019, 2020, 2021
@@ -100,51 +100,51 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 - Huatai Securities Technology Scholarship, 2021
 - Academic Excellence Award in Peking University, 2020  
   
-## Undergraduate Period
+### Undergraduate Period
 - **Outstanding Graduates in Peking University** (**北京大学优秀毕业生**), 2019
 - **Merit Student in Peking University** (**三好学生**), 2016, 2017 
 - **National Scholarship** (**国家奖学金**), 2016
 
-# Math & Programming skills
+## Courses and Math & Programming skills
 Zhiyuan Zhang has a solid foundation in mathematical and programming.
-## Courses  
+### Courses  
 He has scored **96/100 and above** in all the following courses:
 - Mathmetical Courses: Calculus (高等数学上下), Probability & Statistics (概率统计), Set Theory & Graph Theory (集合论图论), Combinatorial Mathematics (组合数学), Number Theory (数论)
 - Physics Courses: Mechanics (力学), Electromagnetism (电磁学)
 - Programming Courses: Introduction to Computing (计算概率), Practice of Programming (程序设计实习), Data Structures & Algorithms (数据结构与算法), Algorithms Analysis (算法分析)
   
-## Undergraduate Period Awards
+### Undergraduate Period Math & Programming Awards
 - **Ranked** **105** of about 50k (about **0.21%**) in Preliminary Round of Alibaba Global Mathematics Competition (and **entered the finals** of the competition), 2018
 - **Second Prize** in Peking University ACM, 2016
     
-## High school Period Awards
+### High school Period Math & Programming Awards
 - **First Prize** in Chinese Mathematical Olympiad (in Provinces) (**ranked** **26** in Zhejiang Province, **全国高中数学联赛浙江赛区一等奖**).
 - **First Prize** in Ruida Cup High School Mathematics Competition (**ranked** **2**, **睿达杯高中数学竞赛一等奖**).
 - **Bronze Medal** in Chinese Southeast Mathematical Olympiad (**中国东南地区数学奥林匹克铜牌**).
 - **Second Prize** in Chinese Physics Olympiad (in Provinces) (**全国中学生物理竞赛浙江赛区二等奖**).
 - **Second Prize** in National Olympiad in Informatics in Provinces (NOIP) (**全国青少年信息学奥林匹克联赛浙江赛区二等奖**).
     
-# Internships
+## Internships
 - Research Intern at Tencent, **WeChat AI**, 2022 - 2024
 - Research Intern at **Ant Group**, 2021
 - Research Grant Support from **Mizuho Securities**, 2021 - 2024
 - Research Grant Support from **Huawei Noah’s Ark Lab**, 2020 - 2021
 
-# Services
+## Services
 - **Area Chair** (**AC**) or **Action Editor** (**AE**) for ACL Rolling Review (ARR), NACCL, etc.
 - **Reviewer** or **Program Committee** (**PC**) for AAAI, ACL, TACL, ECML, NLPCC, etc.
 - **Contributor** for a paper list about robustness and security in deep learning on GitHub (**700+ stars** at GitHub: github.com/THUYimingLi/backdoor-learning-resources).
 - **Teaching Assistant** (**TA**) for "Introduction to Natural Language Processing", "Foundations of Computer Application".
 
-# Invited Talks
+## Invited Talks
 - AI Time, 首场大模型专场, 四位讲者分享大模型研究畅聊ChatGPT: **Mitigating Backdoors in Large Language Models** (消除大模型中的后门), March 2023
 - Shanghai AI Lab: **A Study of Parameter Corruption of Neural Networks** (神经网络参数扰动的研究), Aug. 2022
 - Huawei - Peking University Academic Forum: **Limitation and Improvement of Federated Aggregation Algorithm on Natural Language Processing Tasks** (联邦聚合算法在自然语言处理任务上的局限性及改进), July 2022
 - Beijing Language & Culture University: **A Overview of Adversarial Attacks** (对抗攻击综述报告), Dec. 2021
 
-# Full Paper List      
+## Full Paper List      
 
-## Deep Learning: Optimization, Robustness and Security
+### Deep Learning: Optimization, Robustness and Security
 
 
 - **Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense**    
@@ -214,7 +214,7 @@ He has scored **96/100 and above** in all the following courses:
   Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun, Yuexian Zou   
   In **COLING** 2020 [[pdf](https://aclanthology.org/2020.coling-main.320.pdf),  [cite](https://dblp.uni-trier.de/rec/conf/coling/LiuRZSZ20.html?view=bibtex)]
   
-## Natural Language Processing Applications
+### Natural Language Processing Applications
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
@@ -248,7 +248,7 @@ He has scored **96/100 and above** in all the following courses:
   Preprint [[pdf](https://arxiv.org/pdf/1911.09483.pdf), [code](https://github.com/lancopku/Prime), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1911-09483.html?view=bibtex)]       
   
   
-## Quantitative Finance and Time Series Analysis
+### Quantitative Finance and Time Series Analysis
 
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    

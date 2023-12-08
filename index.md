@@ -26,7 +26,7 @@ layout: default
 Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The papers have been **cited 800+ times** in Google Scholar up to Dec. 2023. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
 
 
-**Homepages on Scholars**: [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ)], [[OpenReview](https://openreview.net/profile?id=~Zhiyuan_Zhang1)], [[DBLP](https://dblp.uni-trier.de/pid/72/1760-1.html)], [[Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
+**Links**: [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ)], [[OpenReview](https://openreview.net/profile?id=~Zhiyuan_Zhang1)], [[DBLP](https://dblp.uni-trier.de/pid/72/1760-1.html)], [[Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
 
 
 - **Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense**    

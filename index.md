@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Biography
-**Zhiyuan Zhang (张之远)** is a **Ph.D. candidate**, supervised by Prof. [Xu Sun (孙栩)](https://xusun.org), at School of Computer Science, **Peking University** (Beijing, China). He received the degree of **Bachelor** of Science in Computer Science from **Peking University** in **2019**. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
+**Zhiyuan Zhang (张之远)** is a **Ph.D. candidate**, supervised by Prof. [Xu Sun (孙栩)](https://xusun26.github.io/), at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/), School of Computer Science, **Peking University** (Beijing, China). He received the degree of **Bachelor** of Science in Computer Science from **Peking University** in **2019**. His research interests include deep learning, particularly robustness, security, and natural language processing, etc. He is also involved in deep learning applied to quantitative finance.
 
 ## Research Interests
 - **Deep Learning**
@@ -16,7 +16,7 @@ layout: default
 
 - **Sept. 2019 - Jul. 2024 (Expected)**  
   **PhD student**, majoring in Computer Software and Theory, at School of Computer Science, **Peking University**.   
-  **Advisor**: [Xu Sun (孙栩)](https://xusun.org). **GPA**: 3.85/4.00. 
+  **Advisor**: [Xu Sun (孙栩)](https://xusun26.github.io/). **GPA**: 3.85/4.00. 
   
 - **Sept. 2015 - Jul. 2019**  
   **Bachelor** of Science in Computer Science, at School of EECS, **Peking University**.   

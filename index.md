@@ -107,12 +107,12 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
   - **Merit Student in Peking University** (**三好学生**), 2016, 2017 
   - **National Scholarship** (**国家奖学金**), 2016
 
-# Courses and Math \& Programming skills
+# Courses and Math & Programming skills
 Zhiyuan Zhang has a solid foundation in mathematical and programming.
 - **Courses**
 
   He scored all **96/100 and above** in the following courses:
-  - Mathmetical Courses: Calculus (高等数学上下), Probability \& Statistics (概率统计), Set Theory \& Graph Theory (集合论图论), Combinatorial Mathematics (组合数学), Number Theory (数论)
+  - Mathmetical Courses: Calculus (高等数学上下), Probability & Statistics (概率统计), Set Theory \& Graph Theory (集合论图论), Combinatorial Mathematics (组合数学), Number Theory (数论)
   - Physics Courses: Mechanics (力学), Electromagnetism (电磁学)
   - Programming Courses: Introduction to Computing (计算概率), Practice of Programming (程序设计实习), Data Structures \& Algorithms (数据结构与算法), Algorithms Analysis (算法分析)
   

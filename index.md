@@ -89,41 +89,40 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
   **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun, Bin He, Li Qian (Huawei)     
 
 # Awards
-- **Phd student period**
-  - **Peking University May Fourth Scholarship** (**北京大学五四奖学金**), 2023
-  - **Pacemaker to Merit Student** (**三好学生标兵**), 2023
-  - **Peking University President Scholarship** (**Highest Ph.D. scholarship**, **北京大学校长奖学金**), 2019, 2020, 2021
-  - Financial Technology and Natural Language Processing 2022: **Best Paper Award**, 2022
-  - Yang Fuqing & Wang Yangyuan Academician Scholarship, 2022
-  - Outstanding Research Award in Peking University, 2022
-  - **Merit Student in Peking University** (**三好学生**), 2021
-  - Huatai Securities Technology Scholarship, 2021
-  - Academic Excellence Award in Peking University, 2020  
+## Phd Student Period
+- **Peking University May Fourth Scholarship** (**北京大学五四奖学金**), 2023
+- **Pacemaker to Merit Student** (**三好学生标兵**), 2023
+- **Peking University President Scholarship** (**Highest Ph.D. scholarship**, **北京大学校长奖学金**), 2019, 2020, 2021
+- Financial Technology and Natural Language Processing 2022: **Best Paper Award**, 2022
+- Yang Fuqing & Wang Yangyuan Academician Scholarship, 2022
+- Outstanding Research Award in Peking University, 2022
+- **Merit Student in Peking University** (**三好学生**), 2021
+- Huatai Securities Technology Scholarship, 2021
+- Academic Excellence Award in Peking University, 2020  
   
-- **Undergraduate period**
-  - **Outstanding Graduates in Peking University** (**北京大学优秀毕业生**), 2019 
-  - **Merit Student in Peking University** (**三好学生**), 2016, 2017 
-  - **National Scholarship** (**国家奖学金**), 2016
+## Undergraduate Period
+- **Outstanding Graduates in Peking University** (**北京大学优秀毕业生**), 2019
+- **Merit Student in Peking University** (**三好学生**), 2016, 2017 
+- **National Scholarship** (**国家奖学金**), 2016
 
 # Math & Programming skills
 Zhiyuan Zhang has a solid foundation in mathematical and programming.
-- **Courses**
+## Courses  
+He has scored **96/100 and above** in all the following courses:
+- Mathmetical Courses: Calculus (高等数学上下), Probability & Statistics (概率统计), Set Theory & Graph Theory (集合论图论), Combinatorial Mathematics (组合数学), Number Theory (数论)
+- Physics Courses: Mechanics (力学), Electromagnetism (电磁学)
+- Programming Courses: Introduction to Computing (计算概率), Practice of Programming (程序设计实习), Data Structures & Algorithms (数据结构与算法), Algorithms Analysis (算法分析)
   
-  He has scored **96/100 and above** in all the following courses:
-  - Mathmetical Courses: Calculus (高等数学上下), Probability & Statistics (概率统计), Set Theory & Graph Theory (集合论图论), Combinatorial Mathematics (组合数学), Number Theory (数论)
-  - Physics Courses: Mechanics (力学), Electromagnetism (电磁学)
-  - Programming Courses: Introduction to Computing (计算概率), Practice of Programming (程序设计实习), Data Structures & Algorithms (数据结构与算法), Algorithms Analysis (算法分析)
-  
-- **Undergraduate period awards**
-  - **Ranked** **105** of about 50k (about **0.21%**) in Preliminary Round of Alibaba Global Mathematics Competition (and **entered the finals** of the competition), 2018
-  - **Second Prize** in Peking University ACM, 2016
+## Undergraduate Period Awards
+- **Ranked** **105** of about 50k (about **0.21%**) in Preliminary Round of Alibaba Global Mathematics Competition (and **entered the finals** of the competition), 2018
+- **Second Prize** in Peking University ACM, 2016
     
-- **High school period awards**
-  - **First Prize** in Chinese Mathematical Olympiad (in Provinces) (**ranked** **26** in Zhejiang Province, **全国高中数学联赛浙江赛区一等奖**).
-  - **First Prize** in Ruida Cup High School Mathematics Competition (**ranked** **2**, **睿达杯高中数学竞赛一等奖**).
-  - **Bronze Medal** in Chinese Southeast Mathematical Olympiad (**中国东南地区数学奥林匹克铜牌**).
-  - **Second Prize** in Chinese Physics Olympiad (in Provinces) (**全国中学生物理竞赛浙江赛区二等奖**).
-  - **Second Prize** in National Olympiad in Informatics in Provinces (NOIP) (**全国青少年信息学奥林匹克联赛浙江赛区二等奖**).
+## High school Period Awards
+- **First Prize** in Chinese Mathematical Olympiad (in Provinces) (**ranked** **26** in Zhejiang Province, **全国高中数学联赛浙江赛区一等奖**).
+- **First Prize** in Ruida Cup High School Mathematics Competition (**ranked** **2**, **睿达杯高中数学竞赛一等奖**).
+- **Bronze Medal** in Chinese Southeast Mathematical Olympiad (**中国东南地区数学奥林匹克铜牌**).
+- **Second Prize** in Chinese Physics Olympiad (in Provinces) (**全国中学生物理竞赛浙江赛区二等奖**).
+- **Second Prize** in National Olympiad in Informatics in Provinces (NOIP) (**全国青少年信息学奥林匹克联赛浙江赛区二等奖**).
     
 # Internships
 - Research Intern at Tencent, **WeChat AI**, 2022 - 2024

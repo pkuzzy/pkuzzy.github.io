@@ -133,8 +133,8 @@ He has scored **96/100 and above** in all the following courses:
 # Services
 - **Area Chair** (**AC**) or **Action Editor** (**AE**) for ACL Rolling Review (ARR), NACCL, etc.
 - **Reviewer** or **Program Committee** (**PC**) for AAAI, ACL, TACL, ECML, NLPCC, etc.
-- **Teaching assistant** (**TA**) for "Introduction to Natural Language Processing", "Foundations of Computer Application"
-- **Contributor** for a paper list about robustness and security in deep learning on GitHub (**700+ stars** at GitHub: github.com/THUYimingLi/backdoor-learning-resources)   
+- **Contributor** for a paper list about robustness and security in deep learning on GitHub (**700+ stars** at GitHub: github.com/THUYimingLi/backdoor-learning-resources).
+- **Teaching Assistant** (**TA**) for "Introduction to Natural Language Processing", "Foundations of Computer Application".
 
 # Invited Talks
 - AI Time, 首场大模型专场, 四位讲者分享大模型研究畅聊ChatGPT: **Mitigating Backdoors in Large Language Models** (消除大模型中的后门), March 2023
@@ -144,7 +144,7 @@ He has scored **96/100 and above** in all the following courses:
 
 # Full Paper List      
 
-### Deep Learning: Optimization, Robustness and Security
+## Deep Learning: Optimization, Robustness and Security
 
 
 - **Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense**    
@@ -214,7 +214,7 @@ He has scored **96/100 and above** in all the following courses:
   Fenglin Liu<sup>\#</sup>, Xuancheng Ren<sup>\#</sup>, **Zhiyuan Zhang**, Xu Sun, Yuexian Zou   
   In **COLING** 2020 [[pdf](https://aclanthology.org/2020.coling-main.320.pdf),  [cite](https://dblp.uni-trier.de/rec/conf/coling/LiuRZSZ20.html?view=bibtex)]
   
-### Natural Language Processing Applications
+## Natural Language Processing Applications
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
@@ -248,7 +248,7 @@ He has scored **96/100 and above** in all the following courses:
   Preprint [[pdf](https://arxiv.org/pdf/1911.09483.pdf), [code](https://github.com/lancopku/Prime), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1911-09483.html?view=bibtex)]       
   
   
-### Quantitative Finance and Time Series Analysis
+## Quantitative Finance and Time Series Analysis
 
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    

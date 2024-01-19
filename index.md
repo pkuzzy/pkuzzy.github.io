@@ -131,7 +131,6 @@ He has scored **96/100 and above** in all the following courses:
 - Research Grant Support from **Huawei Noah’s Ark Lab**, 2020 - 2021
 
 ## Services
-- **Area Chair** (**AC**) or **Action Editor** (**AE**) for ACL Rolling Review (ARR), NACCL, etc.
 - **Reviewer** or **Program Committee** (**PC**) for AAAI, ACL, TACL, ECML, NLPCC, etc.
 - **Contributor** for a paper list about robustness and security in deep learning on GitHub (**700+ stars** at GitHub: github.com/THUYimingLi/backdoor-learning-resources).
 - **Teaching Assistant** (**TA**) for "Introduction to Natural Language Processing", "Foundations of Computer Application".
@@ -232,7 +231,7 @@ He has scored **96/100 and above** in all the following courses:
   
 - **Primal Meaning Recommendation for Chinese Expressions via Descriptions in On-line Encyclopedia**   
   **Zhiyuan Zhang**, Wei Li, Jingjing Xu, Xu Sun    
-  Preprint, accepted by a special issue of **Natural Language Engineering** [[pdf](https://arxiv.org/pdf/1808.04660.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)]     
+  Preprint [[pdf](https://arxiv.org/pdf/1808.04660.pdf), [cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1808-04660.html?view=bibtex)]     
   
 - **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**     
   Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**      

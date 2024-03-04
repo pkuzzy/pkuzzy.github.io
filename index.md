@@ -33,16 +33,20 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 
 - **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**   
   Ruibo Chen<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Yi Liu, Ruihan Bao, Keiko Harimoto, Xu Sun   
-  In **MLF** 2023 (ML in Finance)   
+  In **KDD-MLF** 2023 (ML in Finance)    
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
   In **Neurocomputing** 2023     
-
+     
+- **Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**     
+  **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun                 
+  In Findings of **ACL** 2023   
+  
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**    
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP)           
+  Comment: ⭐ **Selected as the best paper in IJCAI-FinNLP 2022!**        
+  In **IJCAI-FinNLP** 2022 (Financial Technology and NLP)           
       
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
@@ -245,8 +249,8 @@ He has scored **96/100 and above** in all the following courses:
 
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP)    
+  Comment: ⭐ **Selected as the best paper in IJCAI-FinNLP 2022!**        
+  In **IJCAI-FinNLP** 2022 (Financial Technology and NLP)    
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
@@ -254,7 +258,7 @@ He has scored **96/100 and above** in all the following courses:
 
 - **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**   
   Ruibo Chen<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Yi Liu, Ruihan Bao, Keiko Harimoto, Xu Sun   
-  In **MLF** 2023 (ML in Finance)        
+  In **KDD-MLF** 2023 (ML in Finance)        
   
 - **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**    
   Lei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
@@ -266,8 +270,8 @@ He has scored **96/100 and above** in all the following courses:
   
 - **Incremental Stock Volume Prediction with Gradient Distillation and Diversified Memory Selection**   
   Shicheng Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **AI4TS** 2022 (AI for Time Series Analysis)      
+  In **IJCAI-AI4TS** 2022 (AI for Time Series Analysis)      
   
  - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**   
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **RSEML** 2021 (Robust, Secure, and Efficient ML)     
+  In **AAAI-RSEML** 2021 (Robust, Secure, and Efficient ML)     

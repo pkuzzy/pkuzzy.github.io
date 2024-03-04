@@ -23,7 +23,7 @@ layout: default
   **GPA**: 3.76/4.00, **Rank**: **6**/204. 
  
 ## Selected Publications
-Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The papers have been **cited 800+ times** in Google Scholar up to Dec. 2023. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
+Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The papers have been **cited 1000+ times** in Google Scholar up to March 2024. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
 
 **Links**: [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ)], [[OpenReview](https://openreview.net/profile?id=~Zhiyuan_Zhang1)], [[DBLP](https://dblp.uni-trier.de/pid/72/1760-1.html)], [[Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
 
@@ -33,7 +33,7 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 
 - **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**   
   Ruibo Chen<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Yi Liu, Ruihan Bao, Keiko Harimoto, Xu Sun   
-  In **MLF** 2023 (ML in Finance) [[Google Scholar](https://scholar.google.com/scholar?q=Incorporating+Pre-trained+Model+Prompting+in+Multimodal+Stock+Volume+Movement+Prediction&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]
+  In **MLF** 2023 (ML in Finance) [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2309-05608.html?view=bibtex)]
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
@@ -72,7 +72,7 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**    
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://www.semanticscholar.org/paper/No-Stock-is-an-Island%3A-Learning-Internal-and-of-Li-Li/a89aab0fcbf06867c32e8444529dc6545b636964)]                          
+  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [code](https://github.com/lancopku/pkuseg-python), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:Y-6Ipx-bB_YJ:scholar.google.com/&output=citation&scisdr=ClHYdSJOEM7uj2N6FjQ:AFWwaeYAAAAAZeV8DjTQ25myyVoiIlLn_ICcFMk&scisig=AFWwaeYAAAAAZeV8Dky0XohkHD-5pwEYyuXlCRg&scisf=4&ct=citation&cd=-1&hl=en)]                          
 
   
 ## Patents
@@ -252,7 +252,7 @@ He has scored **96/100 and above** in all the following courses:
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [Google Scholar](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=No+Stock+is+an+Island%3A+Learning+Internal+and+Relational+Attributes+of+Stocks+with+Contrastive+Learning&btnG=)]           
+  In **FinNLP** 2022 (Financial Technology and NLP) [[pdf](https://aclanthology.org/2022.finnlp-1.20.pdf), [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:Y-6Ipx-bB_YJ:scholar.google.com/&output=citation&scisdr=ClHYdSJOEM7uj2N6FjQ:AFWwaeYAAAAAZeV8DjTQ25myyVoiIlLn_ICcFMk&scisig=AFWwaeYAAAAAZeV8Dky0XohkHD-5pwEYyuXlCRg&scisf=4&ct=citation&cd=-1&hl=en)]           
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    
   **Zhiyuan Zhang**, Wei Li, Ruihan Bao, Keiko Harimoto, Yunfang Wu, Xu Sun           
@@ -260,7 +260,7 @@ He has scored **96/100 and above** in all the following courses:
 
 - **Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**   
   Ruibo Chen<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Yi Liu, Ruihan Bao, Keiko Harimoto, Xu Sun   
-  In **MLF** 2023 (ML in Finance) [[Google Scholar](https://scholar.google.com/scholar?q=Incorporating+Pre-trained+Model+Prompting+in+Multimodal+Stock+Volume+Movement+Prediction&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]    
+  In **MLF** 2023 (ML in Finance) [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2309-05608.html?view=bibtex)]    
   
 - **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**    
   Lei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
@@ -272,8 +272,8 @@ He has scored **96/100 and above** in all the following courses:
   
 - **Incremental Stock Volume Prediction with Gradient Distillation and Diversified Memory Selection**   
   Shicheng Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **AI4TS** 2022 (AI for Time Series Analysis) [[Google Scholar](https://scholar.google.com/scholar?q=Incremental+Stock+Volume+Prediction+with+Gradient+Distillation+and+Diversified+Memory+Selection&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]     
+  In **AI4TS** 2022 (AI for Time Series Analysis) [[cite](https://scholar.googleusercontent.com/scholar.bib?q=info:YT7hTMJhm_gJ:scholar.google.com/&output=citation&scisdr=ClHYdSJNEM7uj2N9sOY:AFWwaeYAAAAAZeV7qOYW4fckiu-sQLl5vdoLSiI&scisig=AFWwaeYAAAAAZeV7qI9BHE3UKuSeKYXi8blWT7w&scisf=4&ct=citation&cd=-1&hl=zh-CN)]     
   
  - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**   
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **RSEML** 2021 (Robust, Secure, and Efficient ML) [[Google Scholar](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Learning+Robust+Representation+for+Clustering+through+Locality+Preserving+Variational+Discriminative+Network&btnG=)]      
+  In **RSEML** 2021 (Robust, Secure, and Efficient ML) [[cite](https://scholar.googleusercontent.com/scholar.bib?q=info:_htHj0KyUHcJ:scholar.google.com/&output=citation&scisdr=ClHYdSJNEM7uj2N93Fo:AFWwaeYAAAAAZeV7xFq5zLbiQQOSQHmWy-sURQY&scisig=AFWwaeYAAAAAZeV7xMCwQiKbbWsgE9VdRE82c5A&scisf=4&ct=citation&cd=-1&hl=zh-CN)]      

@@ -126,7 +126,7 @@ He has scored **96/100 and above** in all the following courses:
 
 ## Services
 - **Reviewer** or **Program Committee** (**PC**) for AAAI, ACL, TACL, ECML, NLPCC, etc.
-- **Contributor** for a paper list about robustness and security in deep learning on GitHub (**700+ stars** at GitHub: github.com/THUYimingLi/backdoor-learning-resources).
+- **Contributor** for a paper list about robustness and security in deep learning on GitHub (**900+ stars** at GitHub: github.com/THUYimingLi/backdoor-learning-resources).
 - **Teaching Assistant** (**TA**) for "Introduction to Natural Language Processing", "Foundations of Computer Application".
 
 ## Invited Talks

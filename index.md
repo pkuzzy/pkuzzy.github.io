@@ -42,12 +42,7 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**    
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
   Comment: ⭐ **Selected as the best paper in FinNLP-2022!**        
-  In **FinNLP** 2022 (Financial Technology and NLP)   
-
-- **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
-  Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
-  Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[GitHub](https://github.com/lancopku/pkuseg-python)].     
-  Preprint [[project](https://github.com/lancopku/pkuseg-python)]           
+  In **FinNLP** 2022 (Financial Technology and NLP)           
       
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    
@@ -59,6 +54,11 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
   Comment: The theoretical analysis of why and how the parameter robustness relates to the generalization ability via the distributional shift between training and test sets as a bridge. Also related to our previous papers: Parameter Corruption [[pdf](https://arxiv.org/pdf/2006.05620.pdf)] and Adversarial Parameter Defense [[pdf](https://arxiv.org/pdf/2109.02889.pdf)].           
   In **EMNLP** 2022
   
+- **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
+  Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
+  Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[GitHub](https://github.com/lancopku/pkuseg-python)].     
+  Preprint [[project](https://github.com/lancopku/pkuseg-python)]
+
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li    
   Comment: The analysis of the robustness against parameter corruptions or perturbations.       

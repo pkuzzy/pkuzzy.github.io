@@ -270,4 +270,4 @@ He has scored **96/100 and above** in all the following courses:
   
  - **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**   
   Ruixuan Luo, Wei Li, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  In **RSEML** 2021 (Robust, Secure, and Efficient ML) [[Google Scholar](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Learning+Robust+Representation+for+Clustering+through+Locality+Preserving+Variational+Discriminative+Network&btnG=)]      
+  In **RSEML** 2021 (Robust, Secure, and Efficient ML)     

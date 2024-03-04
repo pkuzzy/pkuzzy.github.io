@@ -47,7 +47,7 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
   Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[GitHub](https://github.com/lancopku/pkuseg-python)].     
-  Preprint [project](https://github.com/lancopku/pkuseg-python)           
+  Preprint [[project](https://github.com/lancopku/pkuseg-python)]           
       
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
   **Zhiyuan Zhang**, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun    

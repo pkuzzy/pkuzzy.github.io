@@ -45,7 +45,7 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
   
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**    
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  Comment: ⭐ **Selected as the best paper in IJCAI-FinNLP 2022!**        
+  Comment: ⭐ Selected as the **best paper** in IJCAI-FinNLP 2022!        
   In **IJCAI-FinNLP** 2022 (Financial Technology and NLP)           
       
 - **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data**  
@@ -60,7 +60,7 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
   
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
-  Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[GitHub](https://github.com/lancopku/pkuseg-python)].     
+  Comment: ⭐ A highly influential Chinese word segmentation open source toolkit: **PKUSEG** [[GitHub](https://github.com/lancopku/pkuseg-python)].     
   Preprint [[project](https://github.com/lancopku/pkuseg-python)]
 
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
@@ -215,7 +215,7 @@ He has scored **96/100 and above** in all the following courses:
 
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
-  Comment: ⭐ **A highly influential Chinese word segmentation open source toolkit**: **PKUSEG** [[GitHub](https://github.com/lancopku/pkuseg-python)].     
+  Comment: ⭐ A highly influential Chinese word segmentation open source toolkit: **PKUSEG** [[GitHub](https://github.com/lancopku/pkuseg-python)].     
   Preprint [[project](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
   
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     
@@ -249,7 +249,7 @@ He has scored **96/100 and above** in all the following courses:
 
 - **No Stock is an Island: Learning Internal and Relational Attributes of Stocks with Contrastive Learning**     
   Shicheng Li<sup>\#</sup>, Wei Li<sup>\#</sup>, **Zhiyuan Zhang**, Ruihan Bao, Keiko Harimoto, Xu Sun    
-  Comment: ⭐ **Selected as the best paper in IJCAI-FinNLP 2022!**        
+  Comment: ⭐ Selected as the **best paper** in IJCAI-FinNLP 2022!         
   In **IJCAI-FinNLP** 2022 (Financial Technology and NLP)    
   
 - **ASAT: Adaptively Scaled Adversarial Training in Time Series**    

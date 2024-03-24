@@ -61,7 +61,7 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
   Comment: ⭐ A highly influential Chinese word segmentation open source toolkit: **PKUSEG** [[GitHub](https://github.com/lancopku/pkuseg-python)].     
-  Preprint [[project](https://github.com/lancopku/pkuseg-python)]
+  Preprint      
 
 - **Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption**    
   Xu Sun<sup>\#</sup>, **Zhiyuan Zhang**<sup>\#</sup>, Xuancheng Ren, Ruixuan Luo, Liangyou Li    
@@ -71,7 +71,7 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 - **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**     
   Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**      
   Comment: Releasing a Chinese dependency treebank dataset [[GitHub](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)] of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
-  In **LREC** 2018 [[project](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)]
+  In **LREC** 2018    
   
 ## Patents
 - **一种模型训练方法及装置**     
@@ -216,7 +216,7 @@ He has scored **96/100 and above** in all the following courses:
 - **PKUSEG: A Toolkit for Multi-Domain Chinese Word Segmentation**   
   Ruixuan Luo, Jingjing Xu, Yi Zhang, **Zhiyuan Zhang**, Xuancheng Ren, Xu Sun    
   Comment: ⭐ A highly influential Chinese word segmentation open source toolkit: **PKUSEG** [[GitHub](https://github.com/lancopku/pkuseg-python)].     
-  Preprint [[project](https://ui.adsabs.harvard.edu/abs/2019arXiv190611455L/exportcitation)]        
+  Preprint           
   
 - **Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**     
   **Zhiyuan Zhang**, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun and Bin He      
@@ -234,7 +234,7 @@ He has scored **96/100 and above** in all the following courses:
 - **Building an Ellipsis-aware Chinese Dependency Treebank for Web Text**     
   Xuancheng Ren, Xu Sun, Ji Wen, Bingzhen Wei, Weidong Zhan, **Zhiyuan Zhang**      
   Comment: Releasing a Chinese dependency treebank dataset [[GitHub](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)] of 319 weibos, containing 572 sentences with omissions restored and contexts reserved.    
-  In **LREC** 2018 [[project](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)]      
+  In **LREC** 2018        
 
 - **Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection**     
   Guangxiang Zhao, Junyang Lin, **Zhiyuan Zhang**, Xuancheng Ren, Qi Su, Xu Sun        

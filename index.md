@@ -93,10 +93,10 @@ Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The paper
 - **Peking University President Scholarship** (**Highest Ph.D. scholarship**, **北京大学校长奖学金**), 2019, 2020, 2021
 - Financial Technology and Natural Language Processing 2022: **Best Paper Award**, 2022
 - Yang Fuqing & Wang Yangyuan Academician Scholarship, 2022
-- Outstanding Research Award in Peking University, 2022
+- Award for Scientific Research in Peking University, 2022
 - **Merit Student in Peking University** (**三好学生**), 2021
 - Huatai Securities Technology Scholarship, 2021
-- Academic Excellence Award in Peking University, 2020  
+- Award for Academic Excellents in Peking University, 2020  
   
 ### Undergraduate Period
 - **Outstanding Graduates in Peking University** (**北京大学优秀毕业生**), 2019

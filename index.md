@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Biography
-**Zhiyuan Zhang (张之远)** is a **Ph.D. candidate**, supervised by Prof. [Xu Sun (孙栩)](https://xusun26.github.io/), at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/)), School of Computer Science, **Peking University** (Beijing, China). He received the degree of **Bachelor** of Science in Computer Science from **Peking University** in 2019. His research interests include deep learning, natural language processing and the application to quantitative finance.
+**Zhiyuan Zhang (张之远)** is a **Ph.D. candidate**, supervised by Prof. [Xu Sun (孙栩)](https://xusun26.github.io/), at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/)), School of Computer Science, **Peking University** (Beijing, China). He received the **Bachelor's degree** of Science in Computer Science from **Peking University** in 2019 and received the **Doctoral degree** of Science in Computer Science from **Peking University** in 2024. His research interests include deep learning, natural language processing and the application to quantitative finance.
 
 ## Research Interests
 - **Deep Learning**
@@ -14,16 +14,16 @@ layout: default
 
 ## Education
 
-- **Sept. 2019 - Jul. 2024 (Expected)**  
+- **Sept. 2019 - Jul. 2024**  
   **PhD student**, majoring in Computer Software and Theory, at School of Computer Science, **Peking University**.   
-  **Advisor**: [Xu Sun (孙栩)](https://xusun26.github.io/). **GPA**: 3.85/4.00. 
+  **Advisor**: [Xu Sun (孙栩)](https://xusun26.github.io/). **GPA**: 3.85/4.00, **Rank**: **1**. 
   
 - **Sept. 2015 - Jul. 2019**  
-  **Bachelor** of Science in Computer Science, at School of EECS, **Peking University**.   
+  **Bachelor**, majoring in Science in Computer Science, at School of EECS, **Peking University**.   
   **GPA**: 3.76/4.00, **Rank**: **6**/204. 
  
 ## Selected Publications
-Zhiyuan Zhang has **29 papers**, including **15 first-author papers**. The papers have been **cited 1000+ times** in Google Scholar up to Dec. 2023. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
+Zhiyuan Zhang has **30 papers**, including **16 first-author papers**. The papers have been **cited 1000+ times** in Google Scholar up to Dec. 2023. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
 
 **Links**: [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ)], [[OpenReview](https://openreview.net/profile?id=~Zhiyuan_Zhang1)], [[DBLP](https://dblp.uni-trier.de/pid/72/1760-1.html)], [[Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
 
@@ -142,8 +142,11 @@ He has scored **96/100 and above** in all the following courses:
 ## Full Paper List      
 
 ### Deep Learning: Optimization, Robustness and Security
+- **Enhancing Byzantine-Resistant Aggregations with Client Embedding**    
+  **Zhiyuan Zhang**, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun      
+  In Findings of **EMNLP** 2024   
 
-
+  
 - **Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense**    
   **Zhiyuan Zhang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun     
   In **NeurIPS** 2023    

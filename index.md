@@ -106,7 +106,7 @@ Zhiyuan Zhang has **30 papers**, including **16 first-author papers**. The paper
 ## Courses and Math & Programming skills
 Zhiyuan Zhang has a solid foundation in mathematical and programming.
 ### Courses  
-He has scored **96/100 and above** in all the following courses:
+He has scored **95+/100** in all the following courses:
 - Mathmetical Courses: Calculus (高等数学上下), Probability & Statistics (概率统计), Set Theory & Graph Theory (集合论图论), Combinatorial Mathematics (组合数学), Number Theory (数论)
 - Physics Courses: Mechanics (力学), Electromagnetism (电磁学)
 - Programming Courses: Introduction to Computing (计算概论), Practice of Programming (程序设计实习), Data Structures & Algorithms (数据结构与算法), Algorithms Analysis & Design (算法分析与设计)

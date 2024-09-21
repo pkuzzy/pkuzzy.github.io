@@ -23,7 +23,7 @@ layout: default
   **GPA**: 3.76/4.00, **Rank**: **6**/204. 
  
 ## Selected Publications
-Zhiyuan Zhang has **30 papers**, including **16 first-author papers**. The papers have been **cited 1000+ times** in Google Scholar up to Dec. 2023. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
+Zhiyuan Zhang has **30 papers**, including **16 first-author papers**. The papers have been **cited 1000+ times** in Google Scholar up to 2024. Followings are **selected** publications (<sup>\#</sup>: Equal Contribution). 
 
 **Links**: [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=gSEzCUkAAAAJ)], [[OpenReview](https://openreview.net/profile?id=~Zhiyuan_Zhang1)], [[DBLP](https://dblp.uni-trier.de/pid/72/1760-1.html)], [[Semantic Scholar](https://www.semanticscholar.org/author/Zhiyuan-Zhang/50317060)].          
 
@@ -130,7 +130,7 @@ He has scored **96/100 and above** in all the following courses:
 
 ## Services
 - **Reviewer** or **Program Committee** (**PC**) for AAAI, ACL, TACL, ECML, NLPCC, etc.
-- **Contributor** for a paper list about robustness and security in deep learning on GitHub (**900+ stars** at GitHub: github.com/THUYimingLi/backdoor-learning-resources).
+- **Contributor** for a paper list about robustness and security in deep learning on GitHub (**1k+ stars** at GitHub up to 2024: github.com/THUYimingLi/backdoor-learning-resources).
 - **Teaching Assistant** (**TA**) for "Introduction to Natural Language Processing", "Foundations of Computer Application".
 
 ## Invited Talks

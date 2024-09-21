@@ -99,7 +99,7 @@ Zhiyuan Zhang has **30 papers**, including **16 first-author papers**. The paper
 - Award for Academic Excellents in Peking University, 2020  
   
 ### Undergraduate Period
-- **Outstanding Graduates in Peking University** (**北京大学优秀毕业生**), 2019
+- **Outstanding Graduates in Peking University** (**优秀毕业生**), 2019
 - **Merit Student in Peking University** (**三好学生**), 2016, 2017 
 - **National Scholarship** (**国家奖学金**), 2016
 
